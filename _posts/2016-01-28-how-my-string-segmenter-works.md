@@ -15,7 +15,7 @@ title: How my segmenting program works
 
 ```
 
-#### Then I started my loop which says that while the variable is less than or equal to the string length, do the following operation/s
+#### Then I started my loop which says that while the variable is less than or equal to the string length, do the following operation's
 
 	`while last_letter <= str.length do`
 
@@ -108,7 +108,7 @@ def delete_from_hash
 end
 ```
 
-####If the first word of the Hash was the one that you deleted. Conditional stating that now the max value in the Hash is nil.
+#### If the first word of the Hash was the one that you deleted. Conditional stating that now the max value in the Hash is nil.
 
 ```
 def you_just_deleted_the_first_word_in_hash
