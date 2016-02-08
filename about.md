@@ -3,6 +3,8 @@ title: About
 permalink: /about/
 ---
 
+![](https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/12036750_10156092313010298_7424142712856085399_n.jpg?oh=eb69236ec37407842633ca3c2ba50215&oe=57685E7D)
+
 <p class="lead">Hi. I'm <a href="https://github.com/bethanyhaubert">Beth</a>.</p>
 
 <p>I'm a former Mandarin airborne cryptologic linguist, which is the reason I ended up moving to Nebraska a decade ago. I like traveling and I’m currently writing this intro on the train to Chicago. My favorite things are dinosaurs, cats, Battlestar Galactica, and cats.
