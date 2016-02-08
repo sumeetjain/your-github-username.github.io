@@ -1,12 +1,9 @@
 ---
-title: Example Post
+title: Week Three Letter
 ---
 
-This is a blog entry!
+Things have been moving slow. Lectures could really be cut down to half the amount of time they're taking. 
 
-I'm writing it in Markdown, but it gets converted to HTML by Jekyll.
-
-It's pretty cool. You can do code snippets too:
 
 {% highlight ruby %}
 puts "Hello world!"
@@ -17,4 +14,3 @@ Oh, did you know you can also add images? It works like this:
 
 ![](http://cl.ly/f5al/my-world.png)
 
-Enjoy your Jekyll blog!
