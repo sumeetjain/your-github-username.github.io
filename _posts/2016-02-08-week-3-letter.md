@@ -1,5 +1,5 @@
 ---
-title: Week Three Letter
+title: WEEK THREE LETTER
 ---
 
 Things have been moving slow.

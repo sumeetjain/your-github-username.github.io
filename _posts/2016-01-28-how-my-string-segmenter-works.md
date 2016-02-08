@@ -1,5 +1,5 @@
 ---
-title: How my segmenting program works
+title: HOW MY STRING SEGMENTING PROGRAM WORKS
 ---
 
 #### First I linked my code to the dictionary I created and created storage containers for all of my method's needs

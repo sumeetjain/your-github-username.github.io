@@ -1,5 +1,5 @@
 ---
-title: Week Two Letter
+title: WEEK TWO LETTER
 ---
 
 Dear noobs,
