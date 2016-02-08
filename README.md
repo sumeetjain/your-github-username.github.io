@@ -37,7 +37,9 @@ Let's first copy over the journal entries from your Journal. I suggest making ne
 
 ![](http://cl.ly/f5OW/Screen%20Recording%202016-02-08%20at%2002.30%20PM.gif)
 
-Remember to name them very precisely: `yyyy-mm-dd-title-of-entry.md`. See the example entry's filename if you're still unsure.
+Name them very precisely: `yyyy-mm-dd-title-of-entry.md`. See the example entry's filename if you're still unsure.
+
+(Your existing journal entries probably have a name format like `mm-dd-title-of-entry.md`--missing the year, that is. Make sure to add the year to filenames for this. They're important.)
 
 Once you've copied over your entries, you'll need to make one small addition to them all:
 
