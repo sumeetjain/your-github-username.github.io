@@ -1,0 +1,42 @@
+---
+title: Error tracking
+---
+
+  2) Error:
+StringSegmenterTest#test_string_segmenter:
+ArgumentError: wrong number of arguments (given 1, expected 2..3)
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/tests/string_segmenter_test.rb:7:in `test_string_segmenter'
+
+
+
+1) Error:
+StringSegmenterTest#test_string_segmenter_plurals:
+NameError: undefined local variable or method `dictionary' for #<StringSegmenterTest:0x007f91ea134f60>
+
+
+1) Error:
+StringSegmenterTest#test_string_segmenter:
+TypeError: no implicit conversion of String into Integer
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/lib/string_segmenter.rb:8:in `[]'
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/lib/string_segmenter.rb:8:in `block in segment_string'
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/lib/string_segmenter.rb:7:in `each'
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/lib/string_segmenter.rb:7:in `segment_string'
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/tests/string_segmenter_test.rb:7:in `test_string_segmenter'
+
+  1) Error:
+StringSegmenterTest#test_string_segmenter_plurals:
+TypeError: no implicit conversion of Fixnum into String
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/lib/string_segmenter.rb:16:in `+'
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/lib/string_segmenter.rb:16:in `block in segment_string'
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/lib/string_segmenter.rb:7:in `each'
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/lib/string_segmenter.rb:7:in `segment_string'
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/tests/string_segmenter_test.rb:12:in `test_string_segmenter_plurals'
+
+
+  1) Error:
+StringSegmenterTest#test_string_segmenter_plurals:
+NoMethodError: undefined method `[]' for nil:NilClass
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/lib/string_segmenter.rb:62:in `segment_string'
+    /Users/melindadeinert/Code/ruby-toy__string-segmentation/tests/string_segmenter_test.rb:12:in `test_string_segmenter_plurals'
+
+
