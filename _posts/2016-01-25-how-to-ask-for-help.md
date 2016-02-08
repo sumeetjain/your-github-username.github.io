@@ -10,4 +10,4 @@ title: How we're supposed to ask for help with our work
 
 4. Note the error messages you're getting in return and attempt to decipher them.
 
-5. Beg for a swift, merciful ~~death~~  answer to your question. 
+5. Beg for a swift, merciful <del> death </del>  answer to your question. 
