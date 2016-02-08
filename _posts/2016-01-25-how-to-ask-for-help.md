@@ -1,5 +1,5 @@
 ---
-title: HOW WE'RE SUPPOSED TO ASK FOR HELP
+title: How we're supposed to ask for help with our work
 ---
 
 1. Use clear, concise lanuguage. (i.e. avoid words and phrases like 'thing', 'shitty', 'it's being stupid', "I hate it")

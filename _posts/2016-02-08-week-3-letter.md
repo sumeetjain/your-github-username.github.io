@@ -1,6 +1,6 @@
 ---
-title: WEEK THREE LETTER
+title: Week Three Letter
 ---
 
-Things have been moving slow.
+Things have been moving slowly.
 
