@@ -63,3 +63,19 @@ Add a little content to start with in **about.md**.
 Save everything, run `jekyll server`, and then go to <http://localhost:4000>. You should see your posts.
 
 If things aren't working out, open a PR with all of your code pushed up and let us help out.
+
+### Publishing
+
+If it works locally, you're ready to push to GitHub.
+
+```
+git add .
+git commit -m "First commit"
+git push
+```
+
+(If `git push` alone doesn't work, try `git push -u origin master`.)
+
+Then go get a cup of coffee or something, and when you come back try to go to <http://your-github-username.github.io> (except with your real username).
+
+It should work! That website is live!
