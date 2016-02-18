@@ -1,5 +1,5 @@
 ---
-title: Week Three Thoughts
+title: Beginning Week Three!
 ---
 
 So I guess today marks the beginning of week three of classes at Omaha Code School. I say "I guess" because it doesn't quite feel like we're in the third week. The implication here isn't that it feels longer than that... but I'm definitely not saying it feels like less! It feels more like time has stopped. Yeah, that's a more accurate description. Time has stopped and the only way I can break free of this anomoly in the space-time continuum is by creating a time-freeze-breaking algorithm with Ruby, and maybe I'll need to add some HTML/CSS/Javascript to make it look pretty and user-friendly. 
