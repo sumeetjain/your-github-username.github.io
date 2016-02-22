@@ -2,8 +2,6 @@
 title: Describing My String Segmenting Program
 ---
 
-### Describing My String Segmenting Program
-
 First, call the dictionary using **_require_relative 'dictionary'_** to help run the following method. Define the method as segment_string and display the word "BEGIN" on the screen.
 
 Set a variable for how many characters are in a string. Set a variable for the starting point of string characters to check, ours will start at zero. Set an ending point of string characters to check until, again ours will start at zero. Set a variable for a skip counter to zero and set a hash to store found words in to empty.

@@ -2,16 +2,16 @@
 title: Letter to Aspiring Coders and Developers
 ---
 
-### Letter to Aspiring Coders
 
 I've always been very artistic throughout my life but, to satisfy my dad's worry that I would never be able to make art into a profitable career, I majored in marketing management, the most artistic business degree I could think of.  After 6 years of working entry-level to mid-level low income paying jobs I decided I needed a change in my career path but I wasn't sure exactly what that meant.  
 
-I had found over the last 6 years that my particular rigid, blunt, logic-above-all attitude was not very appreciated in the very grey, politically correct, corporate world. This was something I was not prepared for after college.  
+I had found over the last 6 years that my particular rigid, blunt, logic-above-all attitude was not very appreciated in the very grey, politically correct, corporate world. This was something I was not prepared for after college.
+
 To illustrate, during orientation for a particular position the trainer told the class that showing up to work anywhere between 1 minute to 2 hours late was cause for an attendance point to be distributed.  A certain number of attendance points in X amount of time would result in a corrective action.  This kind of logic made no sense to me.  So I asked the trainer that if we were to find ourselves in the position of being 1 minute late to work, what would be the incentive to come in before we’re 2 hours late since the corrective action would be implemented according to a range rather than our actual clock-in time? The question answered with a glare, probably because, I assume, my logic was somehow offensive… probably because it was correct.
 
 It’s not to say I’m not a “people person” because I definitely am, but growing up I found that cut and clear communication was always easiest for me. If I felt you were wrong, I said so in that exact amount of words with absolutely no offense intended.  On the same hand I freely admitted when I, myself, was wrong as well. However, I quickly realized that whether you intend it or not people normally take offense to being told they are wrong. 
 
-Another way that I found I had limited myself was that I had obtained a degree in Marketing Management but only was able to find jobs related to customer service. I felt I wasn't being challenged enough in all of these postitions, but to gain access to the positions I felt that I _could_ be challenged in I would have had to spend **years** paying my dues on the ground floor first. 
+Another way that I found I had limited myself was that I had obtained a degree in Marketing Management but only was able to find jobs related to customer service. I felt I wasn't being challenged enough in all of these postitions, but to gain access to the positions I felt that I _could_ be challenged in I would have had to spend _years_ paying my dues on the ground floor first. 
 
 I obtained a highly problem solving based/slightly technical position at Yahoo Inc. and I found myself even more stimulated at work than I ever had been.  The Yahoo facility I worked in was later closed due to financial issues and my job was terminated. My parents, whom both have some sort of IT degree, suggested I look into a coding school.  My dad said his company hires from a particular school in town called Omaha Code School.  He elaborated that his recruiters go after students 2-3 weeks before graduation. Students are offered salaries ranging up to $26 per hour and even then it is hard to secure them because they usually have 2-3 offers in their pocket.  
 

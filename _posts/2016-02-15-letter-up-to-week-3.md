@@ -1,0 +1,5 @@
+---
+title: Feelings on OCS up to week 3
+---
+
+Week 3 has definitely been the most challenging week thus far.  We’ve begun designing our very first websites and honestly, on Tuesday I already felt like crying. Even now I’m beyond frustrated that I can’t figure out why my variable is returning that it’s a Nil class when I have it set equal to the competition_id column in the results table. The last thing I want to do is talk about my feelings on the subject, honestly. I feel like I can usually either verbalize or map out exactly what I’m trying to accomplish but the code seems to stump me. I feel like I’m moving at a snails pace this week, I’m worried that I’m being left behind my classmates. The feelings of inferiority compound when it’s obvious they understand a subject I haven’t grasped yet.  To my surprise Sumeet made an announcement that it seems it would be beneficial to multiple people to spend some extra time on this project. Thank GOD. This means I won’t be left behind in the class but more importantly I’m NOT the only person in the class thats struggling. Trust me, this does not alleviate my anxiety a hundred percent but it certainly helps. 
