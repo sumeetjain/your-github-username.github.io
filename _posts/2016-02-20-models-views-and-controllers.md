@@ -25,7 +25,7 @@ end
 
 The top line basically says, "If you get a request from the server for '/', then do this".  The "this" it's referring to is the erb tag, which in this case is directing server to the main/main view.  Remember, as we said, HTML doesn't know what to do with Ruby, to HTML, Ruby code is just text.  In the end, that's all the HTML will see it as.  The MVCs together, take in data, either from a database or user input, send it to the models, and to a lesser extent, the controllers, the Ruby is interpreted there, the output sent back as _just_ text and HTML, knowing how to deal with text, displays that text.  The controllers manage this process.
 
-**Views* are probably the most straightforward of the three.  They're simply what is ultimately displayed on the page, written up with HTML.  Scattered throughout a view you'll find ERB tags.  They look like this:
+**Views** are probably the most straightforward of the three.  They're simply what is ultimately displayed on the page, written up with HTML.  Scattered throughout a view you'll find ERB tags.  They look like this:
 
 {% highlight ruby %}
 <%= Ruby code %>
