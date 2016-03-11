@@ -1,5 +1,5 @@
 ---
-Hack Your Learning
+title: Hack Your Learning
 ---
 
 Hacking your learning can be a tricky concept. How are you supposed to 'hack' anything if you don't know how to get from A to B the hard way? If you don't know yourself and how you learn as an individual, identifying those shortcuts (or 'hacks' as it were) may prove difficult. 

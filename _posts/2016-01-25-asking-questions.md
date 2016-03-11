@@ -1,3 +1,7 @@
+---
+title: Asking Questions
+---
+
 WARNING :: DRY / EMOTIONLESS TEXT AHEAD :: WARNING
 
 When first encountered with a problem or exercise, I attempt to break the procedure down to its smallest possible parts. Usually this will take the form of notes in the text editor meant to link each step to a possible piece of code. 

@@ -1,5 +1,5 @@
 ---
-Models, Controllers, and Views, Oh My!
+title: Models, Controllers, and Views, Oh My!
 ---
 
 The internet is magic. It encapsulates practically the entirety of human knowledge reached by just a few keystrokes and clicks. Instant access to information has become so prevalent that we take it for granted. Today, we take a look at the inner workings of a single Google (the universally accepted verb it has become, not the information oligarch from whence it came). How can you type a few words in a text field, hit 'enter', and be whisked away to a world of your choosing?

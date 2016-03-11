@@ -1,5 +1,5 @@
 ---
-title: Letter to Aspiring Coders
+title: Letter to Aspiring Coders or How I Learned to Stop Worrying and Love the Code
 ---
 
 One of my greatest struggles has been identifying a path. With interests spread far and wide, trying to pick one to pursue as a career felt impossible. I'd start researching one career, then another, and ultimately creating some kind of obstacle or reason why I couldn't or didn't want to move forward with any one option. 
