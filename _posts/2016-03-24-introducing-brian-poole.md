@@ -36,7 +36,7 @@ Absolute Position
 The parade organizers have also hired a substantial event staff. One staff member, let us call her Matilda, has been assigned to walk 10 feet to the left of the City of Burbank float and talk loudly into a headset if the float has to stop, is careening out of control, is being approached by an ice cream truck the driver of which was oblivious to the event, or other disturbances. From your position, you will see Matilda enter your field of vision and eventually leave it, like anything else in the parade. In CSS terms, Matilda is in absolute position. Code in the html file has identified the City of Burbank float as a "parent" of Matilda. Her "absolute" position has been assigned as 10 feet left of her nearest positioned ancestor, in this case, the float. If for some reason the City of Burbank float did not show up for the parade, Matilda would move up the ancestral ladder, and as a last resort, could end up 10 feet to the left of the Chairperson of the Tournament of Roses Parade.
 
 .event staffer Matilda {
-  position: absolute
+  position: absolute;
   left: 10 feet
 } 
 
