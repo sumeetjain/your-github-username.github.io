@@ -1,29 +1,21 @@
 ---
 title: The Lead-up to the First Day at Omaha Code School
 ---
-<p>
+
 I have had the idea of going to code school for a few years now. The first time it occurred to me that this might be a direction in which to head was soon after my graduation from UNO with a BFA in Studio Art (Sculpture). I had been thinking and reading a lot about Transhumanism, digital ethics and what the world may look like in thirty years, and was now in a position where my art-installation-and-gallery-staff income would need to be augmented to a more sustainable level. 
-</p>
-<p>
+
 I had just gotten married, and had been in the service of persons with physical and developmental disabilities as a full-time gig for the last... 15(?) years. I found a job working in a group home, doing the thing I had been doing up until my hiatus for school. The thing is, there just didn't seem to be a lot of call for a 30-something futurist-fine-artist who could weld and paint in a non-industrial manner while wondering aloud about the possible horrors of Capitalism in a post-Singularity world. Talking about Informatics Art or Donatello or 3D printing wasn't even crossing my mind most days, while being verbally abused by teenagers at work. 
-</p>
-<p>
+
 I was working crazy amounts of overtime, saving everything I could with my wife to scrape together a down-payment on a house. Months passed like this, and I mentioned to Alexandra that Omaha Code School was accepting applications. Of course, we were in no position for me to give it a shot, and so we carried on. We ended up buying the cheapest house in the best district we could get into, and began tearing the 1990's from the walls and floors. Under the muave shag were lovely wood floors, the textured wallpaper and the stained wood switch plates were easy enough to change out with clean white plates and paint. 
-</p>
-<p>
+
 About 5 months later, as the dust was still settling, I was working in a managerial role for another local non-profit and came back to the question: What IS the Matrix? I kid, of course. But thinking about the mystery of Code School really intrigued me in a way that other possible directions didn't. 
-</p>
-<p>
+
 In 1983/1984 I was 6 years old, and Apple, either through their "Kids Can't Wait" program or a private donor (I can't be sure which), brought 3 new Apple II's to our grade school. We learned to use Delta Drawing (a turtle-graphics program using the LOGO language), and I was introduced to Zork (a text-based computer game). I loved the 'turtle game' while I was in school, and eventually we had color monitors and mouse controllers but for years and years I had no consistent computer experience. I grew up without a television (my father felt that the virtues of sticks as toys were poorly estimated in the common imagination), and didn't have a computer in the house until I left home. 
-</p>
-<p>
-At UNO, I set up a 3D printer (a MakerBot, first-gen) in my prof's office, and learned to build things with Blender (an open-source CAD program) and print them in plastic. My thesis project consisted of a large, trade-show type booth advertising a fictional product that would be implanted into humans interested in 'hacking' themselves and their nervous systems. The products were on display, and I made print materials and banners and a (modest) website (visible at http://jeremystoll.org/). And while this was hugely interesting to me, I was acutely aware of the fact that, upon graduating, I had no tangible skill to offer, no way to start building a bridge between my ideas and the world outside in anything but a fictional or representational manner.
-</p>
-<p>
+
+At UNO, I set up a 3D printer (a MakerBot, first-gen) in my prof's office, and learned to build things with Blender (an open-source CAD program) and print them in plastic. My thesis project consisted of a large, trade-show type booth advertising a fictional product that would be implanted into humans interested in 'hacking' themselves and their nervous systems. The products were on display, and I made print materials and banners and a (modest) website (visible at http://jeremystoll.org/). And while this was hugely interesting to _me_, I was acutely aware of the fact that, upon graduating, I had no tangible skill to offer, no way to start building a bridge between my ideas and the world outside in anything but a fictional or representational manner.
+
 At this point, the point at which I was thinking about OCS again, I decided that the skills offered could really change my life in many ways- were I to be accepted. I took the plunge and, after recieving the Coding Challenge from Sumeet, looked forward to the next Saturday, when I would have enough time to look at and give it an attempt. 
-</p>
-<p>
+
 That Saturday morning, I sat down at my kitchen table with a French press of coffee and my wife's laptop. I didn't get up until that afternoon, when I took some time to breathe, returning to it again in the evening. I finished all of the challenges, and saw quickly that this was something I could really enjoy. That first day of coding was not easy- I would be lying to say that it didn't stretch my brain a bit. But it was easy to take because the computer would take exactly what you gave it, and so the error was all yours. 
-</p>
-<p>
+
 Sumeet (Jain, of OCS) scheduled an interview with me, and so I only had a week or two to wait until the next step. My wife and I talked at length about it, and she gave her blessing and support. We figured that if we budgeted and worked hard in the meantime, we could just make it without me working for 12 weeks. The morning after we made this decision, my wife woke me up with a surprise: She was pregnant. We were really excited about this, but the timing was crazy- I had the sensation of stepping off an edge in the dark, and someone throws me a baby. How was this going to work?   
