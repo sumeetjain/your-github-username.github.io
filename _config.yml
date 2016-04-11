@@ -1,34 +1,67 @@
-# Basic
-name:               "Patrick Clark"
+title:            Balzac
+tagline:          A beautiful theme.
+description:      Describe your website.
+canonical: http://jekyll.gtat.me
 
-# URL
-baseurl:            ""
-#baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+# Owner/author information
+owner:
+  name:           Patrick Clark
+  avatar:         avatar.png
+  bio:            
+  email:          patclark1958@gmail.com
+  twitter:        Patrick Clark@santaclauslives
+  github:         santaclauslives
+  instagram:      
+  dribbble:       
+  disqus:         
+  location:       "Omaha, NE"
+  # Plug in your disqus shortname!
 
-# Markdown
-markdown:           kramdown
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
 
-# Navigation
-nav:
-  - name:           "About"
-    href:           "/about"
+# Open Graph customization
+opengraph:
+  locale:           en_US
 
-# Sass
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: http://santaclauslives.github.io/
+    external: 
+  - title: 
+    url: 
+    external: 
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Central
+future:      true
+highlighter: pygments
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: enable_coderay
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
 sass:
-  style:            :compressed
+    style: :compressed
 
-# Scopes
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
