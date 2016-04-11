@@ -1,5 +1,8 @@
 ---
-title: Asking For Help
+layout: post
+title:  "Thinking through bugs"
+date:   2016-01-26 12:31:54
+categories:
 ---
   When it comes to asking for help, my method (when thinking clearly and not frustrated) looks something like this:
 

@@ -1,5 +1,8 @@
 ---
-title: The Lead-up to the First Day at Omaha Code School
+layout: post
+title:  "The Lead-up to the First Day at Omaha Code School"
+date:   2016-01-25 13:22:17
+categories:
 ---
 
 I have had the idea of going to code school for a few years now. The first time it occurred to me that this might be a direction in which to head was soon after my graduation from UNO with a BFA in Studio Art (Sculpture). I had been thinking and reading a lot about Transhumanism, digital ethics and what the world may look like in thirty years, and was now in a position where my art-installation-and-gallery-staff income would need to be augmented to a more sustainable level. 
