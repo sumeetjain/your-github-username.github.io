@@ -1,5 +1,7 @@
 ---
-title: Week 3 Experiences
+layout: post
+title: "Week 3 Experiences"
+category: articles
 ---
 
 Thankfully, no assignment thus far has been quite as overwhelming as the String Segmenter program assigned on Day 2 (...although it sounds like that might change tomorrow!). We've worked on quite a few toy problems, but, aside from said string segmenter, the only substantial multi-day assignment has been to create a best-of-round rock-paper-scissors game. Thankfully, this was much easier on the brain than the former. 

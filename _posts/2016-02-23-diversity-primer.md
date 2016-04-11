@@ -1,5 +1,7 @@
 ---
-title: Diversity Primer Reactions
+layout: post
+title: "Diversity Primer Reactions"
+category: articles
 ---
 
 While we're all aware of the relatively little diversity within the tech world, I like to err on the side of optimism--that even if it did take a long time, the industry is changing for the better (better being more diverse). And it seems to be changing pretty quickly. This is evident even within the ranks of OCS--a friend of mine in budai has told me that there were only a handful of women in his class. Now, in OCS' fifth class, about a third of our class is composed of women. While we certainly haven't reached the same representation as in the general population, that's a really impressive growth for only a couple of years' time.

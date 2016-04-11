@@ -1,5 +1,7 @@
 ---
-title: Models, Controllers, and Views
+layout: post
+title: "Models, Controllers, and Views"
+category: articles
 ---
 
 Models, controllers, and views are the three main facets of a website developed with Ruby on Sinatra. They all play vital roles in controlling what a website looks like and how it functions.

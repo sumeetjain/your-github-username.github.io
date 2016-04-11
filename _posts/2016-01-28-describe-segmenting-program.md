@@ -1,5 +1,7 @@
 ---
-title: Description of my String Segmentation Program
+layout: post
+title: "Description of my String Segmentation Program"
+category: articles
 ---
 
 {% highlight ruby %}

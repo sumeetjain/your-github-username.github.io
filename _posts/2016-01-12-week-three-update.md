@@ -1,5 +1,7 @@
 ---
-title: OCS: Week 3 Update
+layout: post
+title: "OCS Week 3 Update"
+category: articles
 ---
 
 Week 3 was an intense one. On Tuesday we got an assignment to create a database and database maintenance website for a swimming competition. While the work isn't mind-blowingly difficult, there's a huge amount of it, and when there's such a big volume of code, there's a much higher potential for things to go wrong. And when it sometimes takes me hours to find and fix an error, just debugging can take so much time that it seems like I'll never get this project done by Tuesday (I'm still not convinced that I will). 

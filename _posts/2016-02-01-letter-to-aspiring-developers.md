@@ -1,5 +1,7 @@
 ---
-title: A Letter to Aspiring/Newbie Developers
+layout: post
+title: "A Letter to Aspiring/Newbie Developers"
+category: articles
 ---
 
 These are a few things I would say to someone in my position a few months ago:

@@ -1,5 +1,7 @@
 ---
-title: Week 7 Update
+layout: post
+title: "Week 7 Update"
+category: articles
 ---
 
 Week 7 saw our introduction to Javascript and lessons about how it paired with HTML fits into the framework of the web. I found it fascinating and really enjoyed our toy problems, even if I was stressed about the quantity of them. Working this weekend on our first Javascript project is really neat, even if I feel like I've forgotten the basics of coding at times due to not really knowing what carries over from Ruby and what doesn't. 
