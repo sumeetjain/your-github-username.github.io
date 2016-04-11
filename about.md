@@ -1,12 +1,30 @@
 ---
+layout: page
 title: About
-permalink: /about/
 ---
 
-My name is Ryan Newell (as the name of my blog kind of suggests). I've had the privelage of joining 17 other (awesome) students in an adventure in learning web development through Omaha Code School. 
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-My wife and I now have a 4 month old daughter named Elliana. She pretty much takes up all our time and energy these days (which, for me, will be reduced quite drastically for the next three months), but she is so worth it. 
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-When I'm not busy coding or spending time with our daughter, I enjoy playing guitar and reading books! 
+There are currently two themes built on Poole:
 
-I am very excited to see what new opportunites and experiences my journey through Omaha Code School will bring. See you on the other side!
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
+
+Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
