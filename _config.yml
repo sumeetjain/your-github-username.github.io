@@ -3,7 +3,7 @@ title: Jeremy Stoll
 email: j8r8my@gmail.com
 description: Web Dev in the Silicon Prairie
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-#url: "http://" # the base hostname & protocol for your site
+url: "http://jeremystoll.github.io" # the base hostname & protocol for your site
 twitter_username: stolljeremy
 github_username:  jeremystoll
 
