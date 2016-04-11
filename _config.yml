@@ -1,34 +1,57 @@
-# Basic
-name:               "Chris Foral"
+# Welcome to Jekyll!
+#
 
-# URL
-baseurl:            ""
-#baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+# Site settings
+title: Chris Foral
+description: |
+  The ramblings and musings of a meandering mind
+owner: Chris Foral # or company name
+first_published: 2016 # if migrating another site, the year of your first publish
+email: chris.foral@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "c4l86.github.io" # the base hostname & protocol for your site
+social:
+  # twitter: https://twitter.com/<username>
+  github: https://github.com/C4L86
+  linkedin-square: https://linkedin.com/in/chrisforal
+  # facebook-official: https://facebook.com/<username>
+  # google-plus-square: https://plus.google.com/u/0/+<username>
+  email: chris.foral@gmail.com
+  #flickr:
+  instagram: https://www.instagram.com/c4l86/
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
 
-# Markdown
-markdown:           kramdown
-
-# Navigation
-nav:
-  - name:           "About"
-    href:           "/about"
-
-# Sass
-sass:
-  style:            :compressed
-
-# Scopes
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
