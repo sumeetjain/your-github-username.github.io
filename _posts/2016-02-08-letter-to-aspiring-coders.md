@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Letter to Aspiring Coders or How I Learned to Stop Worrying and Love the Code
 ---
 

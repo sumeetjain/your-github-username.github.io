@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Models, Controllers, and Views, Oh My!
 ---
 

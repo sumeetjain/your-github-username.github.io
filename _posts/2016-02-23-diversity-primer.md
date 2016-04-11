@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Diversity in Tech
 ---
 
