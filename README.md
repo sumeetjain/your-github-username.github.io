@@ -1,134 +1,138 @@
-# Lanyon
+# Balzac
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
-
-![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
-![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
+This is forked from [minimal mistakes](http://mademistakes.com). I needed some type of framework to build off as I have no experience with Jekyll. Michael set up an awesome dev environment for this which really helped speed up my progress. He also already wrote up an incredibly comprehensive readme.md so I basically copied all of it and replaced what was necessary. The design itself is my own and I cannot let you sell this or tweak the design for resale, unless I you [contact me](mailto:cole@coletownsend.com).
 
 
-## Contents
+If you'd like give me credit somewhere on your blog or tweet a shout out to
+[@twnsndco](https://twitter.com/twnsndco), that would be pretty sweet. 
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+If you feel like donating — [Give it a thought.](http://gtat.me/balzac/donate)
 
-
-## Usage
-
-Lanyon is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
-
-
-## Options
-
-Lanyon includes some customizable options, typically applied via classes on the `<body>` element.
-
-
-### Sidebar menu
-
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
-
-```
 ---
-layout: page
-title: About
----
+
+
+![Balzac for Jekyll](http://cl.ly/Qdzo/Screen%20Shot%202013-08-05%20at%205.35.11%20PM.jpg)
+![Balzac for Jekyll](http://cl.ly/Qdyh/Screen%20Shot%202013-08-05%20at%205.30.01%20PM.jpg)
+
+## Features:
+- flexible, uses max-width for responsive goodness
+- responsive drop down menu
+- retina images using @2x
+- post loop in the footer showing 3 latest posts
+- custom portfolio page for case studies
+
+## Basic Setup
+
+1. [Install Jekyll](http://jekyllrb.com) if you haven't already.
+2. Download this bad boy.
+3.  Fork the [Balzac repo](http://github.com/coletownsend/balzac-for-jekyll/)
+4. Twerk it out so it's just for you.
+5.  ???
+6.  Profit
+
+## [Preview the Theme](http://jekyll.gtat.me)
+=======
+ [Preview the Theme](http://jekyll.gtat.me)
+ 
+``` bash
+balzac-for-jekyll/
+├── _includes
+|    ├── footer.html  //site footer
+|    ├── head.html  //site head
+|    ├── head-dark.html  //dark site head for light pages
+├── _layouts
+|    ├── home.html  //homepage layout
+|    ├── page.html  //page layout
+|    ├── post-index.html  //post listing layout
+|    └── post.html  //post layout
+|    ├── post-no-feature.html  //feature image-less post layout
+├── _posts
+├── assets
+|    ├── css  //preprocessed less styles. good idea to minify
+|    ├── img  //images and graphics used in css and js
+|    ├── js
+|    |   ├── main.js  //jQuery plugins and settings
+|    |   └── vendor  //all 3rd party scripts
+|    └── sass 
+├── images  //images for posts and pages
+├── about.md  //about page
+├── articles.md  //lists all posts from latest to oldest
+└── index.md  //homepage. lists 5 most recent posts
 ```
 
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
+# Customization
+
+## _config.yml
+
+Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to change the title, tagline, description, and url of your site. When working locally comment out `url` or else you will get a bunch of broken links because they are absolute and prefixed with `{{ site.url }}` in the various `_includes` and `_layouts`. Just remember to uncomment `url` when building for deployment or pushing to **gh-pages**...
+
+### Owner/Author Information
+
+Change your name, bio, Twitter url, email, Dribbble URL, etc.
 
 
-### Themes
+### Top Navigation Links
 
-Lanyon ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
+Edit page/post titles and URLs to include in the site's navigation. For external links add `external: true`.
 
-![Lanyon with red theme](https://f.cloud.github.com/assets/98681/1825270/be065110-71b0-11e3-9ed8-9b8de753a4af.png)
-![Lanyon with red theme and open sidebar](https://f.cloud.github.com/assets/98681/1825269/be05ec20-71b0-11e3-91ea-a9138ef07186.png)
-
-There are eight themes available at this time.
-
-![Available theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
-
-To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
-
-```html
-<body class="theme-base-08">
-  ...
-</body>
+``` yaml
+# sample top navigation links
+links:
+  - title: About Page
+    url: /about
+  - title: Other Page
+    url: /other-page
+  - title: External Page
+    url: http://coletownsend.com
+    external: true
 ```
 
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/lanyon/blob/master/public/css/lanyon.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
+## Other Stuff
 
+The rest is just your average Jekyll config settings. Nothing too crazy here...
 
-### Reverse layout
+### _includes
 
-![Lanyon with reverse layout](https://f.cloud.github.com/assets/98681/1825265/be03f2e4-71b0-11e3-89f1-360705524495.png)
-![Lanyon with reverse layout and open sidebar](https://f.cloud.github.com/assets/98681/1825268/be056174-71b0-11e3-88c8-5055bca4307f.png)
+For the most part you can leave these as is since the author/owner details are pulled from `_config.yml`. That said you'll probably want to customize the copyright stuff in `footer.html` to your liking.
 
-Reverse the page orientation with a single class.
+### Adding Posts and Pages
 
-```html
-<body class="layout-reverse">
-  ...
-</body>
+There are two main content layouts: `post.html` (for posts) and `page.html` (for pages). Both have large **feature images** that span the full-width of the screen, and both are meant for text heavy blog posts (or articles). 
+
+### Feature Images
+
+A good rule of thumb is to keep feature images nice and wide so you don't push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices. 
+
+``` yaml
+image:
+# local image 
+  feature: feature-image-filename.jpg
+# link image
+  feature: "http(s)://image.domain.com/feature-image-filename.jpg"
 ```
 
+This makes the assumption that the feature image is in the *images* folder unless it has a link address. To add a feature image to a post or page just include the filename in the front matter like so.
+You can "serve" images responsively with retina.js. All you need to do is have a file with @2x before the file type. That should be placed in the *images* folder. You literally don't have to do anything other than that. 2 copies. One is linked. That's it.
+Ex:
+`cool-photo@2x.jpg` 
 
-### Sidebar overlay instead of push
+**There is a default feature image that will show up for and posts. It isn't retina or anything. It's just there in case you want one but forget <3*
 
-Make the sidebar overlap the viewport content with a single class:
-
-```html
-<body class="sidebar-overlay">
-  ...
-</body>
+#### If you don't want a feature image
+…just say so in the front-matter. Go to your-post-name.md and make sure it has this guy up top.
+```
+layout: post-no-feature
 ```
 
-This will keep the content stationary and slide in the sidebar over the side content. It also adds a `box-shadow` based outline to the toggle for contrast against backgrounds, as well as a `box-shadow` on the sidebar for depth.
+### Categories
 
-It's also available for a reversed layout when you add both classes:
+In the sample `_posts` folder you may have noticed `category: articles` in the front matter. I like keeping all posts grouped in the same folder. If you decide to rename or add categories you will need to modify the permalink in `articles.md` along with the filename (if renaming).
 
-```html
-<body class="layout-reverse sidebar-overlay">
-  ...
-</body>
-```
+For example. Say you want to group all your posts under `blog/` instead of `articles/`. In your post add `category: blog` to the front matter, rename or duplicate `articles.md` to `blog.md` and change the permalink in that file to `permalink: /blog/index.html`.
 
-### Sidebar open on page load
-
-Show an open sidebar on page load by modifying the `<input>` tag within the `sidebar.html` layout to add the `checked` boolean attribute:
-
-```html
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
-```
-
-Using Liquid you can also conditionally show the sidebar open on a per-page basis. For example, here's how you could have it open on the homepage only:
-
-```html
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" {% if page.title =="Home" %}checked{% endif %}>
-```
-
-## Development
-
-Lanyon has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be to submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
+If done correctly `/blog` should be a page listing all the site's posts.
 
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+This is free to use, fork, do whatever you want. Please *do not* sell this design though. You don't need to link me to it, but please contact me if you intend to market this theme. I am releasing premium versions of this design for select CMS's. 

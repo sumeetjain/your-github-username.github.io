@@ -1,6 +1,6 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-ruby "2.3.0"
-
-gem "jekyll-paginate"
-gem "jekyll"
+gem 'jekyll'
+gem 'jekyll-minibundle'
+gem 'coderay'
+gem 'rake'
