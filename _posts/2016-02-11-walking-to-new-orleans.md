@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Walking to New Orleans
+description: "for the curious"
+tags: [post, Omaha Code School]
 ---
 
 Code never sleeps. Neither does Omaha Code School, at least not for a modest spot of bother like snow. Omaha Code School ("OCS" hereinafter) follows the lead of Omaha Public Schools ("OPS hereinafter") on snow days. OPS canceled classes Monday and Tuesday because of snow, as did OCS, sort of.

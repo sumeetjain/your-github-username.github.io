@@ -1,6 +1,8 @@
-
 ---
+layout: post
 title: 24/7/366
+description: "for the curious"
+tags: [post, Omaha Code School]
 ---
 
 It's Leap Year Day. I would like to think this is the universe's plan to help me catch up, but probably not. The days of Week 4 have run away like wild horses over the hills, to steal badly from a poem by Charles Bukowski. In that week, let the record show I at least made sense out of my swim meet manager program, and got well down the road, though not as far as the aforementioned horses, on a program called "Binary Battle" which randomly sets two contestants of some kind against each other, and the user votes for their favorite of the two.  It is kind of like the Nebraska Caucuses, which my wife and my younger daughter will both be participating in a week from now.

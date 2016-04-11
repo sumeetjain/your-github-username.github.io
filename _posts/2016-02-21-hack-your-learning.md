@@ -1,6 +1,10 @@
 ---
+layout: post
 title: The Hack that Keeps on Hacking
+description: "for the curious"
+tags: [post, Omaha Code School]
 ---
+
 
 We have met the enemy, and he is us. -- Earth Day poster, 1970. Sentiment often attributed to the Pogo comic strip. 
 

@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Death to Peter Pan 
+description: "for the curious"
+tags: [post, Omaha Code School]
 ---
 
 Even when I was young, I hated the Peter Pan story. To me, it was the tragedy of a boy who has chosen not to grow up, made all the more tragic by the idea that his perpetual childhood makes him beloved. I don't know why Week 6 made me think of that, but I often write for the sake of finding out why I was thinking about something, and this might be one of those times. So here goes.

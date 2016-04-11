@@ -1,5 +1,8 @@
 ---
-title: Bohemian Cafe Rhapsody 
+layout: post
+title: Bohemian Cafe Rhapsody
+description: "for the curious"
+tags: [post, Omaha Code School]
 ---
 
 Warning: The following does NOT include any discussion of Bohemian Rhapsody, Queen's opus maximus. I'm using "rhapsody" more generically in this case, as an enthusiastic expression of feelings. 

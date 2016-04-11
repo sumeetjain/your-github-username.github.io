@@ -1,5 +1,8 @@
 ---
-title: Welcome to Omaha Code School 
+layout: post
+title: "Welcome to Omaha Code School"
+description: "for the curious"
+tags: [post, Omaha Code School]
 ---
 
 It is my second week of Omaha Code School, and curiosity about the first has set in among my friends. What's it like? What did you learn? Should I send my kid? Should I go myself? Inside that thin but durable scaffolding, I shall build a blog. The goal is weekly updates. In an emergency, there may be a midweek update.

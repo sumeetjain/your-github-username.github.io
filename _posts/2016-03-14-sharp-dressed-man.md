@@ -1,5 +1,8 @@
 ---
-title: Sharp-Dressed Man 
+layout: post
+title: Sharp-Dressed Man  
+description: "for the curious"
+tags: [post, Omaha Code School]
 ---
 
 During week 7, the bobsled that is Omaha Code School careened through an S-curve and built up speed for the final straightaway before the finish. Pair programming, refactoring, introduction to Javascript, the DOM, html a couple of projects, and recording ourselves talking about refactoring. 

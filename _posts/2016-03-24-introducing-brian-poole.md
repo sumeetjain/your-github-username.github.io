@@ -1,5 +1,8 @@
 ---
-title: The Tremeloes, The Tournament of Roses Parade, and Cascading Style Sheets
+layout: post
+title: The Tremeloes, The Tournament of Roses Parade, and Cascading Style Sheets  
+description: "for the curious"
+tags: [post, Omaha Code School]
 ---
 
 On New Year's Day, 1962, a band called The Tremeloes auditioned in London for a recording contract with Decca Records. The Tremeloes had a following in England as dance-hall favorites that loved American rock-and-roll and played a lot of Buddy Holly covers. The audition was something of a formality. Decca signed the Tremeloes, with the proviso that they change their name to Brian Poole and the Tremeloes, to follow the syntax of Buddy Holly and the Crickets. 

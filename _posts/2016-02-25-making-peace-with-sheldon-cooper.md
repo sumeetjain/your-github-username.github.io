@@ -1,6 +1,8 @@
-
 ---
+layout: post
 title: Making Peace with Sheldon Cooper
+description: "for the curious"
+tags: [post, Omaha Code School]
 ---
 
 Some background, for what could be a delicate prompted writing about diversity in coding: 

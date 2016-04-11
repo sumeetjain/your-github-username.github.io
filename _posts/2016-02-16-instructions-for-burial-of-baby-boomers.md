@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Instructions for Burial of Baby Boomers
+description: "for the curious"
+tags: [post, Omaha Code School]
 ---
 
 Week 3 (and much of week 4, it turns out) the Pied Piper of South 13th Street, Sumeet (more on that later) has turned our attention to databases, the far-from-glamorous dynamos that power so much of the internet with their rows and columns of data. Sumeet says much of web development is manipulation of databases. 

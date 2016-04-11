@@ -1,5 +1,8 @@
 ---
-title: Riding the Lone Tree Ferry
+layout: post
+title: Riding the Lone Tree Ferry  
+description: "for the curious"
+tags: [post, Omaha Code School]
 ---
 
 The Bob Kerry Pedestrian Bridge arches across the Missouri River at a point just 1.8 miles from Omaha Code School. It's walking distance on a nice day. 
