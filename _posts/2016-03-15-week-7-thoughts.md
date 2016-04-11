@@ -1,5 +1,9 @@
 ---
+layout: post
 title: Over Half Way There!
+description: "Light at the end of the tunnel?"
+category: articles
+tags: [general, time frame]
 ---
 
 Seriously. We're *over* half way there now! How is that even possible? 

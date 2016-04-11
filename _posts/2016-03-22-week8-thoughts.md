@@ -1,5 +1,9 @@
 ---
+layout: post
 title: One Month to Go!
+description: "Can it be? I can't keep track anymore."
+category: articles
+tags: [general, time frame]
 ---
 
 We've finished our eighth week at Omaha Code School, which means we've only got a month to go. I may have said this last time, but... whoa! (I say that in my whispery, Keanu Reeves voice, of course.)  So much to do and so little time to do it! 
