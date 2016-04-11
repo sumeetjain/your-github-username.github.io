@@ -1,5 +1,12 @@
 ---
+layout: page
 title: Asking for Help...
+excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+modified: 2014-08-08T19:44:38.564948-04:00
+image:
+  feature: so-simple-sample-image-4.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Since our job is basically being paid to be frustrated, it's only natural that we'll try to ease that frustration from time to time by asking for help.  How we do this is important.  Asking in some ways might actually lead to a net increase in our stress levels rather than a decrease.  This is one of those situations where a little "Do unto others" is called for, i.e, think about how you'd want to be approached with a problem.  Would you want the other person to just come to you and dump the problem in your lap without any explanation and say "fix it"?  Probably not.  Thus, step one: Be clear with what the problem is.  Is it related to the algorithm you're trying to use on the problem?  Or is it more an issue with the coding of that algorithm?  Moreover, is it really that clear to you what the problem itself is?  Moving from there, think again, "what would be important to me if I were trying to help someone?"
