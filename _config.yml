@@ -4,8 +4,8 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Ryan Newell
+tagline:             'My journey into web development'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
@@ -13,9 +13,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Ryan Newell
+  url:               https://twitter.com/youcatastrophe
+  email:             ryanalbertnewell@gmail.com
 
 # Custom vars
 version:             1.0.0
