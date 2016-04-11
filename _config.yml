@@ -2,14 +2,16 @@
 #
 
 # Site settings
-title: Spectral
+title: Nerd Alert
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+  Awesome weird coder,
+  ukulele strummer,
+  light photographer.
+  
+  
+owner: Courtney Burns
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: courtneylynnburns@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
