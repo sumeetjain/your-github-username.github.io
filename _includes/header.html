@@ -8,9 +8,7 @@
         <div id="menu">
           <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="posts.html">Blog Posts</a></li>
-            <li><a href="articles.html">Technical Articles</a></li>
-            {% for my_page in site.pages %}
+            {% for my_page in site.posts %}
             {% if my_page.title %}
             <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
             {% endif %}
