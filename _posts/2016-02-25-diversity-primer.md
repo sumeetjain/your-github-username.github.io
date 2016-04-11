@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Feelings on the Diversity Primer
 ---
 

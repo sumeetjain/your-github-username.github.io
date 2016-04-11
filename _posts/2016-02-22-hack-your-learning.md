@@ -1,4 +1,5 @@
 ---
+layout: page
 title: How I've Learned to Hack My Learning
 ---
 

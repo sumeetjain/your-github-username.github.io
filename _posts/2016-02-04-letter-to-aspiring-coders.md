@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Letter to Aspiring Coders and Developers
 ---
 

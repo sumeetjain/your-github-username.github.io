@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Feelings on OCS up to week 4
 ---
 

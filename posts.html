@@ -1,0 +1,14 @@
+---
+layout: page
+title: Posts
+---
+  <h3>Lorem ipsum dolor</h3>
+  <ul>
+      {% for my_post in site.posts %}
+      {% if my_post.title %}
+    <li>
+      <a href="{{ my_post.url | prepend: site.baseurl }}">{{ my_post.title }}</a>
+    </li>
+      {% endif %}
+      {% endfor %}
+  </ul>
