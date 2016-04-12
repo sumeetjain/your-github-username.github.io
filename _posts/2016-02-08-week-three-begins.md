@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Thoughts as We Enter Week Three
 ---
 

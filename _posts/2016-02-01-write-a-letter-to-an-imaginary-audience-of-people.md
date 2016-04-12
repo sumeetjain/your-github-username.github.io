@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Letter to an Imaginary Group of People
 ---
 

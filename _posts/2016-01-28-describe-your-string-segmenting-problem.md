@@ -1,4 +1,5 @@
 ---
+layout: post
 title: String Segmenter Project -- First Pass
 ---
 

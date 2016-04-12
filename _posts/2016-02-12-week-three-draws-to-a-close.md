@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Wrapping Up Week Three
 ---
 

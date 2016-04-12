@@ -1,6 +1,6 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll", "~> 3.0"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem "octopress"
+# 'github-pages' includes 'jekyll' gem 
+gem 'github-pages'
+gem 'bourbon'
+gem 'jemoji'

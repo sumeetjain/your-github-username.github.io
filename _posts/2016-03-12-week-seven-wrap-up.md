@@ -1,4 +1,5 @@
 ---
+layout: post
 title: JavaScript and the need for more java...er, coffee
 ---
 

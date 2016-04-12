@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bringing it all together
 ---
 

@@ -1,81 +1,78 @@
-# Student Journal
+mediator
+========
 
-You'll use this to publish your journal. Follow the below steps carefully, and there shouldn't be any issues.
+A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
+[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](http://blog.base68.com).
 
-## Start Here
+Screenshots
+--------
+![screenshot](/assets/images/screenshot1.jpg)
+![screenshot](/assets/images/screenshot2.jpg)
+![screenshot](/assets/images/screenshot3.jpg)
 
-1. Fork this repository. Don't clone it yet!
-2. From _your_ copy, go to Settings. ([Demo](http://cl.ly/f5fG/Screen%20Recording%202016-02-08%20at%2002.03%20PM.gif))
-3. There, you should rename this repository to user **your actual GitHub username**. So in my case, I would rename the repository to `sumeetjain.github.io`. ([Demo](http://cl.ly/f5as/Screen%20Recording%202016-02-08%20at%2002.05%20PM.gif))
-4. Then go back to the repo's main page and clone the repo into your **~/Code** folder as you usually would for other assignments.
+Features
+-------
+* Fully Responsive layout
+* Use header images in articles, if you want to (add tag "image" and url to the image in the front matter section of a post)
+* Minimal design
+* Featured article support
+* FontAwesome implemented for easy use of icons fonts
+* Free & Open Source Font usage
 
-### Once it's cloned...
-
-Now you have a folder like **~/Code/sumeetjain.github.io** (except with your GitHub username--not mine).
-
-`cd` into that. Then run `jekyll server`.
-
-Just like with Sinatra, this starts a web server. So you shouldn't expect to get the command-line prompt back until you `Control + C` to quit the server.
-
-The name of this web framework is [Jekyll](https://jekyllrb.com/). In a sentence, it takes the Markdown files you give it and converts them into a website.
-
-If you still have the server running, go to <http://localhost:4000>. It's a website! It's _your_ website!
-
-### Making it truly yours...
-
-#### 1. Site Title
-
-Open the **_config.yml** file and change the name to yours. This can be anything you want actually--your real name, favorite screenname, etc. It's the title of your website.
-
-I suggest just using your name, since it can be hard to predict what little, silly thing might make an employer or some other valuable contact close your website.
-
-#### 2. Your Content
-
-Now it's time to add your journal entries!
-
-Let's first copy over the journal entries from your Journal. I suggest making new files using Sublime and then copying over the text from each journal entry.
-
-![](http://cl.ly/f5OW/Screen%20Recording%202016-02-08%20at%2002.30%20PM.gif)
-
-Name them very precisely: `yyyy-mm-dd-title-of-entry.md`. See the example entry's filename if you're still unsure.
-
-(Your existing journal entries probably have a name format like `mm-dd-title-of-entry.md`--missing the year, that is. Make sure to add the year to filenames for this. They're important.)
-
-Once you've copied over your entries, you'll need to make one small addition to them all:
-
-```
+Getting Started
 ---
-title: The Title of The Entry Like This
----
+- [Fork this repository](https://github.com/dirkfabisch/mediator)
+- Clone it: `git clone https://github.com/YOUR-USER/mediator`
+- Install the requried gems ([GitHub Pages](https://github.com/github/pages-gem), [Bourbon](https://github.com/thoughtbot/bourbon) and [Jekyll](https://github.com/jekyll/jekyll), [Jemoji](https://github.com/jekyll/jemoji)): `bundle install`
+- Run the jekyll server: `bundle exec jekyll serve`
+
+You should have a server up and running locally at <http://localhost:4000>.
+
+Configuration
+-----
+
+The main settings happen in side of the _config.yml file:
+
+### Site
+
+Main settings for the site
+
+* **title**: name of your site
+* **description**: description of your site
+* **logo**: small logo for the site (300x * 300x)
+* **cover**: large background image on the index page
+
+* **name**: name site owner
+* **email**: mail address of the site owner
+* **author**: author name
+* **author_image**: small image of author (300x * 300px)
+* **disqus**: add a disqus forum for your post
+
+### Social
+
+The template allows to add all major social plattforms to your site.
+Fill the the form for each plattform. If you leave the share_* entries empty, the sharing buttons below a post are not shown.  If you leave the **url** and **desc** empty the icons are not shown on the index page, but the share icons on the article pages remains untouched (Thanks to [Phil](https://github.com/philsturgeon))
+
+* **icon**:	name of social plattform (must match a name of [font-awsome](http://fortawesome.github.io/Font-Awesome/) icon set )
+* **url**:	url of your account
+* **desc**: slogan of the plattform
+* **share_url**: share url
+* **share_title**: first part of url for the title
+* **share_link**: second part of the share url for the link to the post
+
+The Liquid template engine will magical combine the different parts to a share url.
 
 ```
+http://twitter.com/share?text=post_title&amp;url=post_url
+````
 
-Add this to the _very_ top of each entry. (And change the title to the actual title.)
+See [_config.yml](https://github.com/dirkfabisch/mediator/blob/master/_config.yml) for more examples.
 
-Again, you can refer to the example entry to see how it's done. When you're done, delete the example entry.
+Licensing
+---------
 
-#### 3. About Page
+[MIT](https://github.com/dirkfabisch/mediator/blob/master/LICENCE) with no added caveats, so feel free to use this on your site without linking back to me or using a disclaimer or anything silly like that.
 
-Add a little content to start with in **about.md**.
-
-## Try it out!
-
-Save everything, run `jekyll server`, and then go to <http://localhost:4000>. You should see your posts.
-
-If things aren't working out, open a PR with all of your code pushed up and let us help out.
-
-### Publishing
-
-If it works locally, you're ready to push to GitHub.
-
-```
-git add .
-git commit -m "First commit"
-git push
-```
-
-(If `git push` alone doesn't work, try `git push -u origin master`.)
-
-Then go get a cup of coffee or something, and when you come back try to go to <http://your-github-username.github.io> (except with your real username).
-
-It should work! That website is live!
+Contact
+-------
+I'd love to hear from you at [@dirkfabisch](https://twitter.com/dirkfabisch). Feel free to open issues if you run into trouble or have suggestions. Pull Requests always welcome.
