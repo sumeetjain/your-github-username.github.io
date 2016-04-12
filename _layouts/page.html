@@ -1,12 +1,21 @@
 ---
 layout: default
 ---
-<header class="masthead">
-  <h1 class="masthead-title--small">
-    <a href="{{ site.baseurl }}/">{{ site.name }}</a>
-  </h1>
-</header>
-<div class="content page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
-</div>
+
+  <div id="page">
+    <header class="page-header">
+      <h2>{{ page.title }}</h2>
+    </header>
+
+    <article class="page-content">
+      {{ content }}
+    </article>
+
+
+  </div><!-- end page content -->
+
+
+  {% if site.owner.disqus-shortname and page.comments == true %}
+  <div id="disqus_thread"></div>
+  {% include disqus.html %}
+  {% endif %}

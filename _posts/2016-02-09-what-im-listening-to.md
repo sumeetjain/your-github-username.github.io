@@ -1,6 +1,13 @@
 ---
-title: What I'm listening to while coding - Week 3
+layout: post
+title: "What I'm listening to while coding - Week 3"
+excerpt: ""
+categories: Miscellaneous
+tags: [misc, music]
+date: 2016-02-09
+comments: false
 ---
+
 <ul>
 <li><a href="https://play.google.com/music/r/m/Acemvtift2nm3rpqajajuvo5eva?t=Led_Zeppelin">Monday - Led Zeppelin</a></li>
 <li><a href="https://play.google.com/music/r/m/L7yyx4akq7fvqanr2sxeemvwhvq?t=Epic_Film_Scores">Tuesday - Epic Film Scores</a></li>

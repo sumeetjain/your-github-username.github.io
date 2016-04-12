@@ -1,5 +1,11 @@
 ---
-title: On diversity
+layout: post
+title: "On diversity"
+excerpt: "My thoughts on diversity in tech."
+categories: Miscellaneous
+tags: [misc, diversity]
+date: 2016-02-23
+comments: false
 ---
 
 Diversity & inclusivity in tech is not a topic that is brand new to me. Last year I worked with Big Omaha to adopt a Code of Conduct and incorporate a short intro on inclusivity in the opening remarks of the MC. 

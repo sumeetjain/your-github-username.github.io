@@ -1,5 +1,11 @@
 ---
-title: How we're supposed to ask for help with our work
+layout: post
+title: "How we're supposed to ask for help with our work"
+excerpt: "What do do when you need help."
+categories: Programming
+tags: [errors, ruby]
+date: 2016-03-10
+comments: false
 ---
 
 1. Use clear, concise lanuguage. (i.e. avoid words and phrases like 'thing', 'shitty', 'it's being stupid', "I hate it")

@@ -1,5 +1,11 @@
 ---
-title: What are Models, Controllers, and Views
+layout: post
+title: "What are Models, Controllers, and Views"
+excerpt: "MVC and what they're all about."
+categories: Programming
+tags: [ruby, backend]
+date: 2016-02-15
+comments: false
 ---
 
 Models are ruby files where you define unique classes and methods for those classes. You create one model per unique class. When you're utilizing active record, the model also correlates to each table that is defined in the database schema.

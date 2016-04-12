@@ -1,34 +1,64 @@
-# Basic
-name:               "Beth Haubert"
+#
+###################################
+# Site wide configuration
+####################################
+#
+title:       "Beth Haubert"
+description: #
+url:         # 
 
-# URL
-baseurl:            ""
-#baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       pygments
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
 
-# Markdown
-markdown:           kramdown
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  enable_coderay: false
 
-# Navigation
-nav:
-  - name:           "About"
-    href:           "/about"
-
-# Sass
-sass:
-  style:            :compressed
-
-# Scopes
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Beth Haubert
+  avatar: dino.jpg
+  job: "Web develeoper"
+  bio: "Sci-fi junky, art collector, cat enthusiast"
+  email: bethany.haubert@gmail.com
+  disqus-shortname:
+  twitter: haubertdashery
+  facebook: bethanyhaubert
+  google:
+    plus:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: bethanyhaubert
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: bethany-haubert-3a358966
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
