@@ -2,6 +2,7 @@
 layout: page
 title: Describing My String Segmenting Program
 ---
+<h3>Describing My String Segmenting Program</h3>
 
 First, call the dictionary using **_require_relative 'dictionary'_** to help run the following method. Define the method as segment_string and display the word "BEGIN" on the screen.
 

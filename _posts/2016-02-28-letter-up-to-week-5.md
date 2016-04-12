@@ -2,6 +2,7 @@
 layout: page
 title: Feelings on OCS up to week 5
 ---
+<h3>Feelings on OCS up to week 5</h3>
 
 This week was not nearly as stressful as last week.  I feel like I struggled for so long last week that the things I learned will be engraved into my brain for the rest of my life.  This week we only built on those concepts rather than introducing new ones so, aside from a few syntax errors in my code, the struggle has not been _nearly_ as real. 
 

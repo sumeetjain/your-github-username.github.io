@@ -2,6 +2,7 @@
 layout: page
 title: Feelings on the Diversity Primer
 ---
+<h3>Feelings on the Diversity Primer</h3>
 
 As a woman I was concerned about the diversity in the tech industry before I decided to switch careers to programming. After being accepted to Omaha Code School I sent Sumeet an email asking for some sort of ratio of men to women in the class.  I was very surprised and happy to hear that it's about 50/50. 
 

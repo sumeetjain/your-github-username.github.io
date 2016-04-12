@@ -2,6 +2,7 @@
 layout: page
 title: Describing Models, Views, and Controllers
 ---
+<h3>Describing Models, Views, and Controllers</h3>
 
 Within the context of a database drivin web application Models, Views, and Controllers are basically the 3 main functions of your website.  
 

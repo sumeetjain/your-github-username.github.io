@@ -2,6 +2,7 @@
 layout: page
 title: Letter to Aspiring Coders and Developers
 ---
+<h3>Letter to Aspiring Coders and Developers</h3>
 
 
 I've always been very artistic throughout my life but, to satisfy my dad's worry that I would never be able to make art into a profitable career, I majored in marketing management, the most artistic business degree I could think of.  After 6 years of working entry-level to mid-level low income paying jobs I decided I needed a change in my career path but I wasn't sure exactly what that meant.  
