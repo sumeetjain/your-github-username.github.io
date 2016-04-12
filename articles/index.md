@@ -3,6 +3,8 @@ layout: page
 title: Technical Articles
 excerpt: "technical articles and opinions on code schools and bootcamps"
 search_omit: true
+image:
+  feature: woodheadertwo.jpg
 ---
 
 <ul class="post-list">
