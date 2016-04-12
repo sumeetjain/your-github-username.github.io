@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Week 7 Update"
+description: ""
 category: articles
 ---
 

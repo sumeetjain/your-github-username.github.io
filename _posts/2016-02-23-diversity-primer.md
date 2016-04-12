@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Diversity Primer Reactions"
+description: ""
 category: articles
 ---
 

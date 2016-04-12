@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Letter to Aspiring/Newbie Developers"
+description: ""
 category: articles
 ---
 

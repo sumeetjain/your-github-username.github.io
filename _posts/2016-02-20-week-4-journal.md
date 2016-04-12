@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Week 4 Journal"
+description: ""
 category: articles
 ---
 

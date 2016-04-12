@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Description of my String Segmentation Program"
+description: ""
 category: articles
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OCS Week 3 Update"
+description: ""
 category: articles
 ---
 

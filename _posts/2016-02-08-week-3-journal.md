@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Week 3 Experiences"
+description: ""
 category: articles
 ---
 

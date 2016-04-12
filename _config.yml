@@ -1,20 +1,20 @@
-title:            Balzac
+title:            Melinda Deinert
 tagline:          A beautiful theme.
 description:      Describe your website.
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Melinda Deinert
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            ""
+  email:          melinda.deinert@gmail.com
+  #twitter:        twnsndco
+  github:         mel-d
+  #instagram:      ctrunsthis
+  #dribbble:       coletownsend
+  #disqus:         balzac
+  location:       "Omaha, NE"
   # Plug in your disqus shortname!
 
 tools:
@@ -31,10 +31,10 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/mel-d
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/melindadeinert
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -48,7 +48,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_line_numbers:
