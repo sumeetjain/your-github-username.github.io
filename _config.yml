@@ -4,9 +4,9 @@
 # Site settings
 title: Nerd Alert
 description: |
-  Awesome weird coder,
-  ukulele strummer,
-  light photographer.
+  Awesome weird coder,<br>
+  ukulele strummer,<br>
+  light photographer.<br>
   
   
 owner: Courtney Burns
@@ -15,11 +15,11 @@ email: courtneylynnburns@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  twitter: https://twitter.com/courttheduchess
+  github: https://github.com/clburns107
+  linkedin-square: https://linkedin.com/in/courtney-burns-5ba35626
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
