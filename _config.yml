@@ -6,7 +6,8 @@ description: magnificent weirdo
 # change the logo
 logo: shannonjacksonlogo.png
 search: true
-url: http://localhost:4000
+# url: http://localhost:4000
+url: http://shannonfromomaha.github.io/
 
 # Jekyll configuration
 
