@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: /about/
+excerpt: OH HI.
 ---
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="HglKh9s"><a href="//imgur.com/HglKh9s">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
