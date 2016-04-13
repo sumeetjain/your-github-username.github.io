@@ -17,23 +17,23 @@ Below is an example of using JavaScript to display information about a selected 
 ```js
 
 var dropdown = document.getElementById("dropdown_select");
- var presentation_area = document.getElementById("current_client");
- 
- dropdown.addEventListener("change", function(event){
-      var client_id = dropdown.options[dropdown.selectedIndex].value;
- 
-      var client_request = new XMLHttpRequest();
- 
-      client_request.open("GET", "/clients/profile/"  + client_id);
- 
-      client_request.addEventListener("load", function(request_object){
-        presentation_area.innerHTML = request_object.target.response;
-      });
- 
-      client_request.send();
-     
-    });
- 
+var presentation_area = document.getElementById("current_client");
+
+dropdown.addEventListener("change", function(event){
+     var client_id = dropdown.options[dropdown.selectedIndex].value;
+
+     var client_request = new XMLHttpRequest();
+
+     client_request.open("GET", "/clients/profile/"  + client_id);
+
+     client_request.addEventListener("load", function(request_object){
+       presentation_area.innerHTML = request_object.target.response;
+     });
+
+     client_request.send();
+    
+   });
+
 ```
 
 ### Let’s go through the implementation of this XHR object.
@@ -42,7 +42,7 @@ var dropdown = document.getElementById("dropdown_select");
 
 ```js
 var dropdown = document.getElementById("dropdown_select");
- var presentation_area = document.getElementById("current_client");
+var presentation_area = document.getElementById("current_client");
 ```
 
 **2. Then we create our event listener. In this case, JavaScript is listening for a change in the selected option of this dropdown menu:**
