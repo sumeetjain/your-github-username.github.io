@@ -40,6 +40,6 @@ The kanban board provides a compelling picture of infinite and incremental progr
 The time spent on the emergency needs can be known by aggregating time spent on emergency cards, and an hourly rate assigned to that time. 
 Obviously it would be a terrible idea to hand this bill to the customer. It is an internal document. It helps the developers and the company as a whole assess the real cost of bug fixes, and determine just how profitable a big but capricious customer really is. 
 
-#### Conclusion
+#### **Conclusion**
 
 The simple kanban board does what it does well. With these enhancements, it may be able to do even more for us. By building a kanban board that automates some of the reporting and other non-coding tasks that development teams face, we can keep coders coding and delivering programs and features. In the long run, that is a great way to keep customers happy. 
