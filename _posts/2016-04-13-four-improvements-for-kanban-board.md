@@ -13,7 +13,7 @@ The kanban board is a tool. It can support a good process but it cannot fix a br
  
 My suggestions specifically apply to the electronic boards such as [Zube](https://zube.io/) and [Trello](https://trello.com/), and less to the tangible, multicolored Post-It notes. 
 
-####Ability to tap a card and split it.
+####Ability to tap a card and split it.####
 
 Sometimes, a card has too much on it. Maybe the people writing the cards are in the learning stage. Maybe what looked like one small feature has grown into a half-dozen related features. Maybe the client has provided new information about a feature that they forgot to mention before, and a simple feature has become complex. Tap that card and turn “Issue 159” into 159a, 159b and as many other 159s as necessary to get down to the smallest features. 
 
