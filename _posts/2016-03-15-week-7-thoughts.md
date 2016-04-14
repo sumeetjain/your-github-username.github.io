@@ -6,7 +6,7 @@ category: articles
 tags: [general, time frame]
 ---
 
-Seriously. We're *over* half way there now! How is that even possible? 
+Seriously. We're **over** half way there now! How is that even possible? 
 
 Is it weird for me to say that I don't want this to be over? I know we're not done yet, and I suppose there's still plenty of time to change my mind. That said, I really don't like the idea of this class being done any time soon. Not only do I feel like there's just so much more I need/want to learn and discover, but I just enjoy the class immensely. That's not to say I don't have my bad days (I definitely do... often!). 
 
@@ -18,7 +18,7 @@ So I guess the lesson here is that I just need to stay strong no matter what,not
 
 Week seven was a pretty good week. We started JavaScript. I like JavaScript. I also like Ruby. But I like them both for different reasons. While Ruby is more elegant and reads a bit more like English, what I particularly like about JavaScript has less to do with what it looks like and more to do with what JavaScript mainly deals with. 
 
-JavaScript is essentially *the* language when it comes to performing anything logical on the front-end (the part users see and interact with). I've never really found myself getting excited about HTML or CSS (the languages that have to do with the content, layout and appearance of a web page), but I find JavaScript to be a lot of fun. Also, it just makes sense to me. Again, I'm speaking here regarding what JavaScript *deals* with, not so much the language itself. 
+JavaScript is essentially **the** language when it comes to performing anything logical on the front-end (the part users see and interact with). I've never really found myself getting excited about HTML or CSS (the languages that have to do with the content, layout and appearance of a web page), but I find JavaScript to be a lot of fun. Also, it just makes sense to me. Again, I'm speaking here regarding what JavaScript **deals** with, not so much the language itself. 
 '
 There's something about working with the 'DOM'(Document Object Model) just 'clicks' with me (no pun intended). Maybe it's the instant gratification... I don't know. But I do know I like it and I'm looking forward to working with it more! 
 

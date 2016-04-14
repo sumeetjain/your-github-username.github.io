@@ -1,26 +1,25 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
+title: About Me
+description: I decided to give web development/programming a go... and I'm not looking back.
+tags: [about]
 image:
   feature: soft-trees.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+### Who am I?
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+I'm usually confused because life is so vast and huge and beautiful and terrible while I'm so small and curious. But I try have fun with this bewilderment. It's almost as if it gives me room to breath, some space to move around and room to...well...make mistakes to put it quite bluntly. Of course, there are also days where things seem so grey and vague that I find myself wishing things were a little more defined.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+Not quite one year ago, I decided to look into web development. Up to that point, I had never given it a thought. Well, maybe I did give it a thought... several thoughts here and there, in fact. But, whenever I thought about it, I immediately dismissed the idea. My thoughts on web development were along the lines of: _Well, programming languages, frameworks, and tech stacks are constantly changing,_ (which is totally accurate, by the way) _so why would I want to dive into something that I could probably never master or "figure out" entirely?_  Finally, one day it occurred to me that perhaps the ever-changing nature of programming and web development could be seen as a good thing in that is can help keep one on their toes. Perhaps it can even **help** level the playing field a little.
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+After that, I began checking out a few introductory courses about web development online and eventually decided to join Omaha Code School. It was one of the best decisions I've ever made.
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+## About Me
+
+I have a daughter (six months old as I right this) and I'm crazy about her. I'm also crazy about my wife. My favorite things are the simple things. Nature. Hiking. Sunsets. Strumming on my guitar. Good food. Conversation with friends over a coffee or beer. Watching spring and summer storms roll in. Honest, down to earth people. 
+
+I'm not sure as to how often I'll blog. It could be monthly, weekly, or daily. Either way, it's going to be fun to see how this goes.
+
+If you would like to contact me, feel free to email me or hit me up on twitter. The links are below. 
