@@ -1,0 +1,75 @@
+---
+layout: post
+title: Four Simple Steps To Take Now So Your Future Self Can Read Your Own CSS Code  
+description: "for the curious"
+tags: [post, Omaha Code School]
+---
+
+*Who wrote this godawful CSS? I can’t tell what goes with...Oh, wait, I did this. Never mind.”*
+
+If you have ever said anything like this, or thought the thought, you are not alone. If you are brand new to CSS and have never been in a position to examine an old stylesheet, you can avoid this moment of mild embarrassment by taking a few steps now to organize your CSS. 
+
+Nobody starts out as CSS Mozart, writing brilliant, easily maintained stylesheets in a single draft right out of the starting gate. But we can start writing CSS that we can look at later and understand what we were trying to do. There are probably dozens of good organizational ideas that front-end web developers are incorporating into their work routinely, but consider just these four as a place to start: 
+
+1. Make commented-out sections of your CSS page so that it mirrors the HTML file. The example breakdown below is not set in stone. Use whatever section headings you need to make it easy to see what goes where. 
+
+You may not need to do this forever. If you have a repeatable, well-documented naming convention for your html classes and other elements that makes it easy to read your files, you might not need this at all. On the other hand, if you are trying to update some old and poorly organized CSS, you may need to comment out narrative about each class and each element in each section as you discern what they do. 
+
+Simple Commented-Out Sections of a 2-Column CSS File
+
+
+
+
+
+
+
+
+2. Place child elements right after the parent element in the CSS file and indent them.
+
+If the elements are well-named this may seem like a redundant step, but sometimes in the evolution of a project a name that made sense at the time of creation makes a little less sense years later. The indentation adds clarity, takes almost no time, and requires almost no thought by the reader. You look and you can see the dependency relationship.
+
+In this example, .award_link is the default state. It’s what the user sees when the page opens. The indented styles are for the “hover” state and the “active” state of the same element. 
+
+
+
+
+
+3. Refactor for understanding and maintainability.
+
+Using fewer lines of code is a good goal. Being able to read the code is an even better one. I am all in favor of, for example, putting the padding information all on one line, as shown here.
+(The two lines that were consolidated in the “After” version are commented out.  
+
+      Before Refactoring                         After Refactoring
+  
+
+This CSS has not existed very long, and if you read it top to bottom, the way a computer reads it, you can already see how things could go sideways with it over time. In the “Before” code, “padding-top” and “padding-bottom” were defined right away. Then some time later it was necessary to come back, perhaps in great haste, and add “padding-left” to the mix. Over time, simply adding new attributes like this will almost inevitably result in problems. For instance, if “padding-left” would have been “padding-top” we would have two styles for padding-top, and the program would use the one farthest down the page. That might solve a problem in one part of the layout and create a problem in three others. A single line of padding information makes the padding attribute assignments easier to keep track of, and if they must be updated, easier to update. 
+
+One Downside to this Shorthand System to be Aware Of  
+
+Where this practice falls apart for me is specifically the syntax to indicate padding on three sides, such as:
+
+```
+<style>
+
+
+</style>
+```
+
+Is that telling me that there is padding on the top, right and left sides? The top, bottom and left? It makes me stop and think, with the net result that a step that was supposed to simplify reading the page adds a complication.  To keep it simple for myself, if I need to add padding to more than one side of an element I will indicate the padding for all four sides, even if one or two of them will be 0px. If you want to habitually use just the padding: shorthand syntax even for something like padding: 0px 10px 0px 0px, you would at least have a convention that would result in one line of code per element, and which you and others will understand instantly.
+
+
+4. Use the built-in, free screenshot tool as a built-in, free pixel ruler.  
+
+Credit where credit is due:  I saw this in an article by Daniel Aleksandersen. The article is here: https://www.slightfuture.com/how-to/osx-screen-shot-ruler. 
+
+On a Mac, the same keyboard shortcut you could use to make screenshots like the ones in this article can be used to measure elements on screen and also see if they align properly. Command-Shift-4 turns your cursor into a crosshair tool. To measure, position the crosshair at, say, the top left of the element, and hold down the cursor while you drag the crosshair to the end of your measurement area. For instance, if you are measuring a photo placeholder you could drag the crosshair tool from upper left to lower right.
+
+If you want a screenshot of the part of the screen you just measured, just lift up on the keypad and the screenshot will go to your desktop. If you do not want a screenshot of that part of the screen, press the escape key before you lift up on the keypad. If you accidentally took a screenshot and didn’t mean to, the stakes are low. Go to your desktop and delete the screenshot you don’t want. 
+
+There may be more elegant ways to measure, using one of the many ruler tools available. Some are free, some definitely are not, but none of them is more certain to work on your Mac than the one Apple put there. 
+
+What this has to do with your CSS
+
+The reason this is important to your CSS is that screenshots will be a boon to you as you put together a style guide for a project. This section probably should be labeled “Make a Style Guide” but that is a much larger topic that deserves a lot more attention than this article would give it. So just learn this, and apply it as necessary: Command-Shift-3 will let you take a screenshot of an entire window. Command-Shift-4 will let you take a screenshot of an element or group of elements you select. 
+
+All of the ideas described here are just steps toward a goal of writing easily read, easily maintained CSS. None of them are new, and none of them are absolute. You and/or your team may have an excellent organizational strategy that you always use that includes none of these elements. If that is the case, let me learn from you.
