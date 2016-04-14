@@ -13,11 +13,11 @@ The kanban board is a tool. It can support a good process but it cannot fix a br
  
 My suggestions specifically apply to the electronic boards such as [Zube](https://zube.io/) and [Trello](https://trello.com/), and less to the tangible, multicolored Post-It notes. 
 
-#### Ability to tap a card and split it.
+### **Ability to tap a card and split it.**
 
 Sometimes, a card has too much on it. Maybe the people writing the cards are in the learning stage. Maybe what looked like one small feature has grown into a half-dozen related features. Maybe the client has provided new information about a feature that they forgot to mention before, and a simple feature has become complex. Tap that card and turn “Issue 159” into 159a, 159b and as many other 159s as necessary to get down to the smallest features. 
 
-#### Ability to use a kanban reporting function to scrap the daily standup meeting.
+### **Ability to use a kanban reporting function to scrap the daily standup meeting.**
 
 Your daily standup meeting may be worth every second you spend in it. If so, by all means keep it. However, it is far too easy for the daily standup to become just another ritual in which everybody says what they did yesterday, what they are doing today, and what might be hindering their progress. Ten minutes after the meeting, it is possible that nobody remembers any of it. 
 
@@ -25,7 +25,7 @@ A kanban board with a report generator could do all of this. It could aggregate 
 
 Obviously, if there are eight developers working on a project, and three of them have “need help” flashing lights on their In Progress item, go ahead and have the staff meeting, immediately. Don’t wait until whatever time is reserved for the daily standup. 
 
-#### Ability to deliver a report to keep stakeholders and/or other interested parties informed about your progress. 
+### **Ability to deliver a report to keep stakeholders and/or other interested parties informed about your progress.** 
 
 This upgrade is similar to the previous one, but would require a little more curating by a project manager or other person who either formally or otherwise works as the liaison between the development team and the customer. For example, if the kanban cards are too full of technical jargon to be read by an outsider, the project manager may need to translate them for the report. Still, that would be faster and potentially more informative than producing a PowerPoint from scratch with the same information. Even more valuable, it would enable the coders to keep coding. If the task is making sense and you are making progress, the last thing you need is to stop what you are doing and attend a meeting to talk about the progress.
 
@@ -33,13 +33,13 @@ To some extent, this report is a public relations tool. It is too easy for custo
 
 Again, the ability to do something is not a requirement to do it. If this report adds to an appreciation for what the coders are doing, or even continues the development funding, without resorting to PowerPoint, it’s a boon. 
 
-#### Ability to generate a “bill” for unscheduled work.
+### **Ability to generate a “bill” for unscheduled work.**
 
 The kanban board provides a compelling picture of infinite and incremental progress. Sometimes that doesn’t match how people are working. An emergency, such as a bug fix or a demand from a large customer, can pull coders away from WIP. Some work teams may even have a separate swim lane for “emergencies,” in a kind of tangible recognition that no matter how much we seek to perfect our work processes, there will always be events outside of the familiar workflow. We know one cost of emergency work: It temporarily takes resources away from another customer’s project, possibly jeopardizing the ability to meet that customer’s deadline. But we can also know the actual dollar cost of emergencies, thanks to this proposed kanban board enhancement. 
  
 The time spent on the emergency needs can be known by aggregating time spent on emergency cards, and an hourly rate assigned to that time. 
 Obviously it would be a terrible idea to hand this bill to the customer. It is an internal document. It helps the developers and the company as a whole assess the real cost of bug fixes, and determine just how profitable a big but capricious customer really is. 
 
-#### **Conclusion**
+### **Conclusion**
 
 The simple kanban board does what it does well. With these enhancements, it may be able to do even more for us. By building a kanban board that automates some of the reporting and other non-coding tasks that development teams face, we can keep coders coding and delivering programs and features. In the long run, that is a great way to keep customers happy. 
