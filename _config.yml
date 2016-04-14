@@ -23,7 +23,7 @@ paginate:	5
 url: "http://tsbutler.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: ''
+twitter_handle: '@ThinkingBinary'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
