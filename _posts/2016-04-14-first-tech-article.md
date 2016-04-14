@@ -3,7 +3,7 @@ layout: post
 title: Using JavaScript Event Listeners
 description: "Introduction to JavaScript Event Listeners and How to Use Them."
 category: articles
-tags: [general, time frame]
+tags: [general, javascript, technical]
 ---
 
 
