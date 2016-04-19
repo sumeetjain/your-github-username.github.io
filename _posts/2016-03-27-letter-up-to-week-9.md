@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How The Grinch Stole A Website Design
+title: How The Grinch Stole A Website
 ---
 <h3>Week 9</h3>
 

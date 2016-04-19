@@ -1,5 +1,3 @@
-tag project week two. Sick.  Running out of css. 
-
 ---
 layout: page
 title: Where Do I Sit, Where Do I Fall?
