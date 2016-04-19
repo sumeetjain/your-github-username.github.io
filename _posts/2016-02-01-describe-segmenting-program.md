@@ -6,7 +6,7 @@ title: Describing My String Segmenting Program
 
 First, call the dictionary using **_require_relative 'dictionary'_** to help run the following method. Define the method as segment_string and display the word "BEGIN" on the screen.
 
-Set a variable for how many characters are in a string. Set a variable for the starting point of string characters to check, ours will start at zero. Set an ending point of string characters to check until, again ours will start at zero. Set a variable for a skip counter to zero and set a hash to store found words in to empty.
+Set a variable for how many characters are in a string. Set a variable for the starting point of string characters to check, ours will start at zero. Set an ending point of string characters to check until, again ours will start at zero. Set a variable for a skip counter to zero and set a hash to store found words into empty hash.
 
 Display the word "LOOP" on the screen. While the ending point of the characters of the string is not yet equal to how many characters are in the actual string itself, this means you have not reached the end of the string and therefore should proceed with the following:
 

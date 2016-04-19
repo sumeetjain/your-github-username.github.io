@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Feelings on OCS up to week 6
+title: Guys! Look At Me Communicate!
 ---
-<h3>Feelings on OCS up to week 6</h3>
+<h3>Week 6</h3>
 
 This week I felt more comfortable with the code and algorithms than I ever have.  My struggles with coding and algorithms were a lot less trying.  However,  we had two new challenges to face.  1.  Working on feature at a time until completion and 2. Coding with a partner, side by side, one at a time.  
 

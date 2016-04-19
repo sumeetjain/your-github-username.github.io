@@ -2,9 +2,9 @@ tag project week two. Sick.  Running out of css.
 
 ---
 layout: page
-title: Feelings on OCS up to week 10
+title: Where Do I Sit, Where Do I Fall?
 ---
-<h3>Feelings on OCS up to week 10</h3>
+<h3>Week 10</h3>
 
 This week is week 2 of working on the TAG project. On Monday and Tuesday I spent my time working on styling pages that I felt weren't really a priority to the project but everything else was either done or being worked on. On Wednesday I got the flu and it took me out of school and the project for the rest of the week. On Saturday I started to feel a little better and begin working through the homework.  
 
