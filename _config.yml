@@ -1,34 +1,61 @@
-# Basic
-name:               "Sumeet Jain"
+title:            Ryan Newell
+tagline:          My journey into web development.
+description:      My journey into web development.
+canonical: http://youcatastrophe.github.io/
 
-# URL
-baseurl:            ""
-#baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+# Owner/author information
+owner:          
+  name:           Ryan Newell
+  avatar:         avatar.png
+  bio:            "Aesthete & Athlete"
+  email:          ryanalbertnewell@gmail.com
+  twitter:        youcatastrophe
+  github:         youcatastrophe
+  instagram:      youcatastrophe
+  location:       "Omaha, NY"
 
-# Markdown
-markdown:           kramdown
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
 
-# Navigation
-nav:
-  - name:           "About"
-    href:           "/about"
+# Open Graph customization
+opengraph:
+  locale:           en_US
 
-# Sass
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/youcatastrophe
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+highlighter: rouge
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
 sass:
-  style:            :compressed
+    style: :compressed
 
-# Scopes
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
