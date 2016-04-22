@@ -18,7 +18,7 @@ After that, I began checking out a few introductory courses about web developmen
 
 ## About Me
 
-I have a daughter (six months old as I right this) and I'm crazy about her. I'm also crazy about my wife. My favorite things are the simple things. Nature. Hiking. Sunsets. Strumming on my guitar. Good food. Conversation with friends over a coffee or beer. Watching spring and summer storms roll in. Honest, down to earth people. 
+I have a daughter (six months old as I write this) and I'm crazy about her. I'm also crazy about my wife. My favorite things are the simple things. Nature. Hiking. Sunsets. Strumming on my guitar. Good food. Conversation with friends over a coffee or beer. Watching spring and summer storms roll in. Honest, down to earth people. 
 
 I'm not sure as to how often I'll blog. It could be monthly, weekly, or daily. Either way, it's going to be fun to see how this goes.
 
