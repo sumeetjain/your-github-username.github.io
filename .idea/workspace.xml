@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd42360-ff88-4df8-a63a-c4bfcff518b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-10-18-December-18-journal-entry.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-8-16-lets-encrypt.md" afterPath="$PROJECT_DIR$/_drafts/2016-8-16-lets-encrypt.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/bethanyhaubert.github.io.iml" afterPath="$PROJECT_DIR$/.idea/bethanyhaubert.github.io.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-12-18-December-18-journal-entry.md" afterPath="$PROJECT_DIR$/_posts/2017-12-18-December-18-journal-entry.md" />
     </list>
     <ignored path="bethanyhaubert.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,13 +35,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-18-December-18-journal-entry.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-December-18-journal-entry.md">
+      <file leaf-file-name="2017-12-18-December-18-journal-entry.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-12-18-December-18-journal-entry.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-                <folding />
+              <first_editor relative-caret-position="176">
+                <caret line="12" column="272" lean-forward="false" selection-start-line="12" selection-start-column="272" selection-end-line="12" selection-end-column="272" />
+                <folding>
+                  <marker date="1513654554000" expanded="true" signature="1389:1910" ph=" ... end" />
+                  <marker date="1513654554000" expanded="true" signature="1432:1564" ph=" ... end" />
+                  <marker date="1513654554000" expanded="true" signature="1634:1906" ph=" ... end" />
+                  <marker date="1513654554000" expanded="true" signature="1643:1898" ph="if ... end" />
+                  <marker date="1513654554000" expanded="true" signature="1945:2472" ph=" ... end" />
+                  <marker date="1513654554000" expanded="true" signature="1996:2128" ph=" ... end" />
+                  <marker date="1513654554000" expanded="true" signature="2198:2468" ph=" ... end" />
+                  <marker date="1513654554000" expanded="true" signature="2207:2460" ph="if ... end" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -75,6 +80,7 @@
       <list>
         <option value="$PROJECT_DIR$/_posts/2016-8-16-lets-encrypt.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-18-December-18-journal-entry.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-18-December-18-journal-entry.md" />
       </list>
     </option>
   </component>
@@ -281,12 +287,12 @@
       <workItem from="1471368154010" duration="287000" />
       <workItem from="1490133303235" duration="6000" />
       <workItem from="1507914980687" duration="10000" />
-      <workItem from="1513638226764" duration="3397000" />
+      <workItem from="1513638226764" duration="3605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3700000" />
+    <option name="totallyTimeSpent" value="3908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -363,17 +369,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/2016-8-16-lets-encrypt.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-02-09-what-im-listening-to.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -421,9 +416,40 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-December-18-journal-entry.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2016-8-16-lets-encrypt.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-18-December-18-journal-entry.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="12" column="272" lean-forward="false" selection-start-line="12" selection-start-column="272" selection-end-line="12" selection-end-column="272" />
+            <folding>
+              <marker date="1513654554000" expanded="true" signature="1389:1910" ph=" ... end" />
+              <marker date="1513654554000" expanded="true" signature="1432:1564" ph=" ... end" />
+              <marker date="1513654554000" expanded="true" signature="1634:1906" ph=" ... end" />
+              <marker date="1513654554000" expanded="true" signature="1643:1898" ph="if ... end" />
+              <marker date="1513654554000" expanded="true" signature="1945:2472" ph=" ... end" />
+              <marker date="1513654554000" expanded="true" signature="1996:2128" ph=" ... end" />
+              <marker date="1513654554000" expanded="true" signature="2198:2468" ph=" ... end" />
+              <marker date="1513654554000" expanded="true" signature="2207:2460" ph="if ... end" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
