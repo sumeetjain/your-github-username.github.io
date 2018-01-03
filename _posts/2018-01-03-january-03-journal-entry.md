@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Journal Entry - January 03, 2018"
-excerpt: "How to write a "How to" doc"
+excerpt: "How to write a 'How to' doc"
 categories: Programming
 tags: [journal]
 date: 2018-01-03
