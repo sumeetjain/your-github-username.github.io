@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Journal Entry - December 18"
+title: "Journal Entry - December 18, 2017"
 excerpt: "HoneyBadger exceptions and the engineers who raise them."
 categories: Programming
 tags: [journal]
