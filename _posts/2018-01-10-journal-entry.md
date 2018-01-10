@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Journal Entry - January 09, 2018"
+excerpt: "Birthday"
+categories: Programming
+tags: [journal]
+date: 2018-01-05
+comments: false
+---
+
+
+I finally figured out my environment issue with a little help. I ended up running this command `gem pristine --all` to clean up my gems after the OS High Sierra update. Worked like a charm, but took a while to track down the issue as a whole.
+
+I also started a side project over lunch. The domain <a href=snowmaha.com >snowmaha.com</a> was available so I bought it, stood a Sinatra app up, and utilized some css and jquery Trevan had written a few years ago.
