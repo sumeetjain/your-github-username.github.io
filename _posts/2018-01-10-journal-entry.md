@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Journal Entry - January 09, 2018"
+title: "Journal Entry - January 10, 2018"
 excerpt: "Birthday"
 categories: Programming
 tags: [journal]
