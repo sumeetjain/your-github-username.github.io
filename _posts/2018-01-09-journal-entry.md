@@ -4,7 +4,7 @@ title: "Journal Entry - January 09, 2018"
 excerpt: "The Day of Miscellany"
 categories: Programming
 tags: [journal]
-date: 2018-01-05
+date: 2018-01-09
 comments: false
 ---
 
