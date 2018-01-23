@@ -4,7 +4,7 @@ title: "Journal Entry - January 23, 2018"
 excerpt: "Wildcards"
 categories: Programming
 tags: [journal]
-date: 2018-01-10
+date: 2018-01-23
 comments: false
 ---
 
