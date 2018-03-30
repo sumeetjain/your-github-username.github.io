@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Journal Entry - March 26, 2018"
+title: "Journal Entry - March 28, 2018"
 excerpt: "A new (to me) Enumberable method"
 categories: Programming
 tags: [journal]
-date: 2018-03-29
+date: 2018-03-28
 comments: false
 ---
 
