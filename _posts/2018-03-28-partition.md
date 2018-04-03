@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Journal Entry - March 28, 2018"
-excerpt: "A new (to me) Enumberable method"
+excerpt: "A new (to me) Enumerable method"
 categories: Programming
 tags: [journal]
 date: 2018-03-28
