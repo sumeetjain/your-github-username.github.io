@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Journal Entry - July 11, 2018"
+current: post
+navigation: True
+title: "Fun query"
 excerpt: "Fun query"
 categories: Programming
 tags: [journal]
 date: 2018-07-11
+class: post-template
 comments: false
+subclass:
+author:
 ---
 
 

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Journal Entry - January 09, 2018"
+current: post
+navigation: True
+title: "The Day of Miscellany"
 excerpt: "The Day of Miscellany"
 categories: Programming
 tags: [journal]
 date: 2018-01-09
+class: post-template
 comments: false
+subclass:
+author:
 ---
 
 Today was super random. Andy V and I had a Tech Talk to put together and present in the afternoon, so we worked on that in between one-on-ones with Tommy this morning. We presented this talk (<a href="https://www.youtube.com/watch?v=nOa6FhMKsZ0">RubyConf 2017: Just when you thought you couldn't refactor any more</a>) and discussed how far we would have refactored the block. I personally don't think the code was very clear or understandable by the end of the presentation. Much of that had to do with the regex.

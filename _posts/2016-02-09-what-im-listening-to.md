@@ -1,11 +1,16 @@
 ---
 layout: post
+current: post
+navigation: True
 title: "What I'm listening to while coding - Week 3"
 excerpt: ""
 categories: Miscellaneous
 tags: [misc, music]
 date: 2016-02-09
+class: post-template
 comments: false
+subclass:
+author:
 ---
 
 <ul>

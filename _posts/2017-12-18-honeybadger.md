@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Journal Entry - December 18, 2017"
+current: post
+navigation: True
+title: "HoneyBadger exceptions and the engineers who raise them."
 excerpt: "HoneyBadger exceptions and the engineers who raise them."
 categories: Programming
 tags: [journal]
 date: 2017-12-18
+class: post-template
 comments: false
+subclass:
+author:
 ---
 
 I've been on EE (Escalate to Engineering) duty the past few days, which means it can be hard to focus on a larger story when I have no idea when I'll get interrupted to fix an issue with the app. Not a big deal. There's no better time to bite off a few Honey Badger errors. I tend to track down the LetsEncrypt-associated errors since I still feel a sense of ownership over Simple SSL, despite over a year having passed since building it and seeing multiple engineers adding their own _touches_ (i.e. bug-fixes). 

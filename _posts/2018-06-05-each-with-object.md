@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Journal Entry - June 05, 2018"
+current: post
+navigation: True
+title: "each_with_object"
 excerpt: "each_with_object"
 categories: Programming
 tags: [journal]
 date: 2018-06-05
+class: post-template
 comments: false
+subclass:
+author:
 ---
 
 I've been wrestling with a slightly nasty refactor story recently. The following is my first iteration of a method that loops through a hash of `@nameservers` and for each one assigns the `host` to an instance variable in the class, then loops through each IP in the `info` hash and adds the output from a private method in the `@results` hash.

@@ -1,0 +1,11 @@
+beth:
+  username: beth
+  name: Beth
+  location: Omaha, NE
+  url_full: http://bethanyhaubert.com
+  url: bethanyhaubert.com
+  bio: Software Engineer, Cat whisperer
+  picture: assets/images/dino.png
+  facebook: False
+  twitter: haubertdashery
+  cover: False

@@ -1,11 +1,16 @@
 ---
 layout: post
+current: post
+navigation: True
 title: "Writing Ruby MiniTests for custom database queries"
 excerpt: "Everything you wanted to know about testing."
 categories: Programming
 tags: [tests, ruby]
 date: 2016-04-06
+class: post-template
 comments: false
+subclass:
+author:
 ---
 
 

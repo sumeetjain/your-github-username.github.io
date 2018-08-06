@@ -1,11 +1,16 @@
 ---
 layout: post
+current: post
+navigation: True
 title: "JavaScript - How to use an XHR object"
 excerpt: "Utilizing XHR objects in your application."
 categories: Programming
 tags: [javascript]
 date: 2016-03-31
+class: post-template
 comments: false
+subclass:
+author:
 ---
 
 

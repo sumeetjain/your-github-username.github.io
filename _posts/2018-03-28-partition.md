@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Journal Entry - March 28, 2018"
+current: post
+navigation: True
+title: "A new (to me) Enumerable method"
 excerpt: "A new (to me) Enumerable method"
 categories: Programming
 tags: [journal]
 date: 2018-03-28
+class: post-template
 comments: false
+subclass:
+author:
 ---
 
 So I was helping one of our front-end devs on a view the other day and he needed a collection of objects to be in a very specific order. The problem was that it required a very ugly and somewhat confusing query:

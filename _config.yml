@@ -1,64 +1,93 @@
-#
-###################################
-# Site wide configuration
-####################################
-#
-title:       "Beth Haubert"
-description: #
-url:         # 
-
-#
-###################################
 # Jekyll configuration
-####################################
-#
-timezone:          Europe/Paris
-markdown:          redcarpet
-highlighter:       pygments
-excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+markdown: kramdown
+highlighter: rouge
+paginate: 100 # it will paginate after this number
+language: 'en-us'
 
-kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  toc_levels:     1..6
-  enable_coderay: false
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /
 
-#
-###################################
-# Site Owner configuration
-####################################
-#
-owner:
-  name: Beth Haubert
-  avatar: dino.jpg
-  job: "Web develeoper"
-  bio: "Sci-fi junky, art collector, cat enthusiast"
-  email: bethany.haubert@gmail.com
-  disqus-shortname:
-  twitter: haubertdashery
-  facebook: bethanyhaubert
-  google:
-    plus:
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: bethanyhaubert
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: bethany-haubert-3a358966
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+# Website info
+title: Beth Haubert
+description: Software Engineer, Cat whisperer
+cover: assets/images/blog-cover.jpg
+logo: assets/images/dino.jpg
+logo_dark: assets/images/favicon.png
+favicon: assets/images/favicon.png
+production_url: https://bethanyhaubert.com
+source_url: https://github.com/bethanyhaubert/bethanyhaubert.github.io
+
+# Social info
+navigation: True # show the navbar links
+subscribers: True # you need to connect an external service for this to work,
+# if 'True' the submit button is disabled for now, but you can change that
+# by editing `_includes/subscribe-form.html`
+twitter: haubertdashery # replace by your username
+facebook: False # replace by your username
+
+# Disqus
+disqus: False
+disqus_shortname: False # replace with your disqus username
+
+# Google Analytics
+google_analytics: Flase # replace with your GA tracking identifier
+
+# Permalinks
+permalink: /:title
+# permalink: /author/:author
+# permalink: /tag/:tag
+
+# Authors' info in `_data/authors.yml`
+# Tags' info in `_data/tags_info.yml`
+
+# gems and other configs
+plugins: [jekyll-paginate, jekyll-feed]
+
+feed:
+  path: feed.xml
+
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
+
+# Settings for builing master branch with travis-ci
+# with jekyll-travis
+
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+safe: False
+lsi: False
+username: bethanyhaubert
+repo: bethanyhaubert.github.io
+branch: master
+relative_source:
+destination:
+production_url: http://bethanyhaubert.com
+source_url: https://github.com/bethanyhaubert/bethanyhaubert.github.io
+
+exclude:
+  - assets/css
+  - node_modules
+  - vendor
+  - .travis.yml
+  - Gemfile
+  - Gemfile.lock
+  - GHOST.txt
+  - gulpfile.js
+  - LICENSE
+  - package.json
+  - Rakefile
+  - README.md
+  - script.py
+  - changelog.md
+  - "*.Rmd"
+  - .git*

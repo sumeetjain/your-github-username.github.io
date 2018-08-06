@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Journal Entry - March 30, 2018"
+current: post
+navigation: True
+title: "JavaScripting"
 excerpt: "JavaScripting"
 categories: Programming
 tags: [journal]
 date: 2018-03-30
+class: post-template
 comments: false
+subclass:
+author:
 ---
 
 The past couple of days have been really JavaScript heavy. We needed some new jQuery validations written.

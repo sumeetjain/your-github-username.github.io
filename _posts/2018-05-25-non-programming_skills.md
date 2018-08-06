@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Journal Entry - May 07, 2018"
+current: post
+navigation: True
+title: "Ruminating"
 excerpt: "Ruminating"
 categories: Programming
 tags: [journal]
 date: 2018-05-07
+class: post-template
 comments: false
+subclass:
+author:
 ---
 
 I got an email from an old Omaha Code School graduate this weekend, asking me for some help. She was preparing a talk about the skills non-CS-degree folks bring to tech and she asked me what skills my previous careers gave me. I found it kind of hard to answer, but ended up sending her this:

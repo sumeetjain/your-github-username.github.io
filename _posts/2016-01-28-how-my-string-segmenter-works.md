@@ -1,11 +1,16 @@
 ---
 layout: post
+current: post
+navigation: True
 title: "How my string segmenting program works"
 excerpt: "What happens when you try to split a string up into individual words."
 categories: Programming
 tags: [ruby, algorithms]
 date: 2016-01-28
+class: post-template
 comments: false
+subclass:
+author:
 ---
 
 #### We were tasked with created a program that split up a string into individual words. For example `"catsurethra"` should be split up into `"cats"` & `"urethra"`. However, you'll notice that there are other words inside of that string like `"cat"`, `"at"`, and `"sure"`. I needed to make sure I accounted for all possible words that my program would find and also ensure that there were no leftover letters at the end. After some sketching out of ideas into plain text, I felt I had a working concept.
