@@ -11,6 +11,6 @@ fables:
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
 getting-started:
-  name: getting-started
+  name: projects
   description: False
-  cover: False
+  cover: assets/images/fables.jpg

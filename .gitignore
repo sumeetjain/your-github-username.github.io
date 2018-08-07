@@ -3,4 +3,4 @@ _site
 Gemfile.lock
 .idea
 atom.xml
-.idea*
+.idea/*
