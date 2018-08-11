@@ -13,4 +13,4 @@ Snowmaha
 
 Omeowha
 
-[Flydeas](app.flydeas.io)
+[Flydeas](http://app.flydeas.io)
