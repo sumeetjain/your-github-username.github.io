@@ -7,10 +7,10 @@ logo: 'assets/images/headshot.jpg'
 class: page-template
 subclass: 'post page'
 ---
-Meowifier
+[Meowifier](http://www.meowifier.com/)
 
-Snowmaha
+[Snowmaha](https://snowmaha.com/)
 
-Omeowha
+[Omeowha](http://omeowha.com/)
 
 [Flydeas](http://app.flydeas.io)
