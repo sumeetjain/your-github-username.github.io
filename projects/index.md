@@ -14,6 +14,6 @@ subclass: 'post page'
 
 [Omeowha](http://omeowha.com/)
 
-[Lincoln Calling](lincolncalling.com)
+[Lincoln Calling](http://lincolncalling.com)
 
 [Bollywood Bechdel](https://enigmatic-caverns-92718.herokuapp.com/)
