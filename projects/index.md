@@ -1,16 +1,19 @@
 ---
 layout: page
 current: projects
-title: Projects
+title: Side Projects
 navigation: True
 logo: 'assets/images/headshot.jpg'
 class: page-template
 subclass: 'post page'
 ---
-[Meowifier](http://www.meowifier.com/)
 
 [Snowmaha](https://snowmaha.com/)
 
+[Flydeas](http://app.flydeas.io)
+
 [Omeowha](http://omeowha.com/)
 
-[Flydeas](http://app.flydeas.io)
+[Lincoln Calling](lincolncalling.com)
+
+[Bollywood Bechdel](https://enigmatic-caverns-92718.herokuapp.com/)
