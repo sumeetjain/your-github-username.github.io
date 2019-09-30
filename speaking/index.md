@@ -8,6 +8,8 @@ class: page-template
 subclass: 'post page'
 ---
 
+## Technical Talks
+
 #### February 2019
 
 [RubyConf AU](https://rubyconf.org.au/2019): [Cats, the Musical! Algorithmic Song Meow-ification](https://www.youtube.com/watch?v=JTNPLwqJIDg)
@@ -35,6 +37,12 @@ subclass: 'post page'
 #### July 2018
 
 [NEJS CONF](https://2018.nejsconf.com/speakers/haubertdashery/): [WTF are Serverless Apps?¯\_(ツ)_/¯](https://speakerdeck.com/bethanyhaubert/-1)
+
+#### February 2017
+
+[TEDxUNO](https://www.ted.com/tedx/events/20490): [Confronting Our Cultural Myopia](https://www.youtube.com/watch?v=x7VPDhbjOEA)
+
+## Non-technical Talks
 
 #### February 2017
 
